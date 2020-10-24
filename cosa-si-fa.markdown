@@ -7,7 +7,7 @@ permalink: "/cosa-si-fa"
 Cosa si fa e cosa si porta
 ==========================
 martedì 27 ottobre 2020, 11:30
-------------------------------
+-----------------------------
 
 Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione
