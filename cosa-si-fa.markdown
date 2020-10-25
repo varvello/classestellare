@@ -15,6 +15,8 @@ Compiti\: leggi e studia pag. 2, 3, 4 e 5. Esercizio pag.5. Completa schema sul 
 11.30 _ 12.00 ascolto e comprensione   
 12.00 _ 13.30 mensa e intervallo  
 13.30 _ 14.00 spazio interrogazioni  
+  
+Oggi interrogazione di Storia vedi compiti 26 ottobre  
 ## Mercoledì 28 Ottobre 2020, 08:30
 #### Italiano
 Libri\: Letture e Percorsi, quaderno italiano e grammatica  
