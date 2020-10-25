@@ -9,7 +9,7 @@ permalink: "/cosa-si-fa"
 ## martedì 27 ottobre 2020, 11:30
 
 Italiano e mensa
-11.30 - 12.00 ascolto e comprensione
+11.30 - 12.00 | ascolto e comprensione
 12.00-13.30 mensa e intervallo
 13.30 - 14.00 spazio interrogazioni
 
