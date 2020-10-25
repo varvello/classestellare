@@ -4,12 +4,12 @@ date: 2020-10-24 09:08:00 +02:00
 permalink: "/cosa-si-fa"
 ---
 
-# Cosa si fa e Cosa si porta2
+# Cosa si fa e Cosa si porta
 ## Martedì 27 Ottobre 2020, 11:30
 ### Italiano e mensa
-11.30 _ 12.00 ascolto e comprensione 
+11.30 _ 12.00 ascolto e comprensione
 12.00 _ 13.30 mensa e intervallo
-13.30 _ 14.00 spazio interrogazioni 
+13.30 _ 14.00 spazio interrogazioni
 ## Mercoledì 28 Ottobre 2020, 08:30
 ### Italiano
 Libri: Letture e Percorsi, quaderno italiano e grammatica
@@ -43,4 +43,4 @@ COMPITI: LETTURE pag. 18 19. PERCORSI
 Album fogli da disegno, cartellina, matite colorate, pennarelli 
 ## Venerdì 6 Novembre 2020, 10:30
 ### Italiano
-Libro Percorsi, quaderno anelli italiano/grammatica
+Libro Percorsi, quaderno anelli italiano/grammatica 
