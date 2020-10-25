@@ -6,12 +6,12 @@ permalink: "/cosa-si-fa"
 
 # Cosa si fa e Cosa si porta2
 ## Martedì 27 Ottobre 2020, 11:30
-### Italiano e mensa
+#### Italiano e mensa4
 11.30 _ 12.00 ascolto e comprensione   
 12.00 _ 13.30 mensa e intervallo  
 13.30 _ 14.00 spazio interrogazioni  
 ## Mercoledì 28 Ottobre 2020, 08:30
-### Italiano
+#### Italiano4
 Libri\: Letture e Percorsi, quaderno italiano e grammatica  
   
 COMPITI\: PERCORSI   
