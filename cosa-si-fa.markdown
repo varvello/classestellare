@@ -12,7 +12,6 @@ permalink: "/cosa-si-fa"
 13.30 _ 14.00 spazio interrogazioni 
 ## Mercoledì 28 Ottobre 2020, 08:30
 ### Italiano
-
 Libri: Letture e Percorsi, quaderno italiano e grammatica
 
 COMPITI:  PERCORSI 
@@ -35,7 +34,6 @@ Compiti: leggi e studia pag. 2, 3, 4 e 5. Esercizio pag.5. Completa schema sul q
 13.30 _ 14.00 spazio interrogazioni 
 ## Mercoledì 4 Novembre 2020, 08:30
 ### Italiano
-
 Libri: Letture e Percorsi, quaderno italiano e grammatica
 
 COMPITI: LETTURE pag. 18 19. PERCORSI 
