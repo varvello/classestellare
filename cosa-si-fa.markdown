@@ -11,7 +11,7 @@ image: "/uploads/boy.jpg"
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
   
-Compiti\: leggi e studia pag. 2, 3, 4 e 5. Esercizio pag.5. Completa schema sul quaderno. Leggi e sottolinea pag 6 e 7  
+Compiti\: leggi e studia pag. 2,3,4 e 5. Esercizio pag.5. Completa schema sul quaderno. Leggi e sottolinea pag. 6 e 7  
 ## Martedì 27 Ottobre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
@@ -21,7 +21,7 @@ Compiti\: leggi e studia pag. 2, 3, 4 e 5. Esercizio pag.5. Completa schema sul 
 Oggi interrogazione di Storia vedi compiti 26 ottobre  
 ## Mercoledì 28 Ottobre 2020, 08:30
 #### Italiano
-Libri\: Letture e Percorsi, quaderno italiano e grammatica  
+Percorsi, quaderno italiano e grammatica  
   
 COMPITI\: PERCORSI   
 \: pag. 9,16,17,63,64,150  
@@ -34,8 +34,6 @@ Libro Percorsi, quaderno anelli italiano/grammatica
 ## Lunedì 2 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
-  
-Compiti\: leggi e studia pag. 2, 3, 4 e 5. Esercizio pag.5. Completa schema sul quaderno. Leggi e sottolinea pag 6 e 7  
 ## Martedì 3 Novembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
@@ -43,10 +41,7 @@ Compiti\: leggi e studia pag. 2, 3, 4 e 5. Esercizio pag.5. Completa schema sul 
 13.30 _ 14.00 spazio interrogazioni  
 ## Mercoledì 4 Novembre 2020, 08:30
 #### Italiano
-Libri\: Letture e Percorsi, quaderno italiano e grammatica  
-  
-COMPITI\: LETTURE pag. 18 19. PERCORSI   
-\: pag. 13,14,15, 61 e 62  
+Percorsi, quaderno italiano e grammatica  
 ## Mercoledì 4 Novembre 2020, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
@@ -56,5 +51,3 @@ Libro Percorsi, quaderno anelli italiano/grammatica
 ## Lunedì 9 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
-  
-Compiti\: leggi e studia pag. 2, 3, 4 e 5. Esercizio pag.5. Completa schema sul quaderno. Leggi e sottolinea pag 6 e 7  
