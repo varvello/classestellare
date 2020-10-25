@@ -6,7 +6,7 @@ livereload: true
 image: "/uploads/boy.jpg"
 ---
 
-# Cosa si fa e Cosa si porta
+# Cosa si fa e Cosa si porta live
 ## Lunedì 26 Ottobre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
