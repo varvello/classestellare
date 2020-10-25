@@ -6,4 +6,3 @@ permalink: "/cosa-si-fa"
 
 11.30  12.00 ascolto e comprensione
 12.00  13.30 mensa e intervallo
-13.30  14.00 spazio interrogazieni
