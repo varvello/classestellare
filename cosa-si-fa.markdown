@@ -4,5 +4,6 @@ date: 2020-10-24 09:08:00 +02:00
 permalink: "/cosa-si-fa"
 ---
 
-uno e
-due
+11.30 \_ 12.00 ascolto e comprensione  
+12.00 \_ 13.30 mensa e intervallo 
+13.30 \_ 14.00 spazio interrogazioni 
