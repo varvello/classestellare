@@ -1,0 +1,13 @@
+---
+title: Classe Stellare
+timezone: Europe/Rome
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+livereload: true
+livereload_min_delay: 1
+livereload_max_delay: 1
