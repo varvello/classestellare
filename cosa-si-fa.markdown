@@ -4,7 +4,7 @@ date: 2020-10-24 09:08:00 +02:00
 permalink: "/cosa-si-fa"
 ---
 
-# Cosa si fa e Cosa si porta live
+# Cosa si fa e Cosa si porta
 ## Lunedì 26 Ottobre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
