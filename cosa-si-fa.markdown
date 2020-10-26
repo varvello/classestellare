@@ -14,7 +14,7 @@ image: "/uploads/boy.jpg"
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
 12.00 _ 13.30 mensa e intervallo  
-13.30 _ 14.00 spazio interrogazioni  
+  
   
 Oggi interrogazione di Storia vedi compiti 26 ottobre  
 ## Mercoledì 28 Ottobre 2020, 08:30
@@ -23,8 +23,9 @@ Percorsi, quaderno italiano e grammatica
   
 COMPITI\: PERCORSI   
 \: pag. 9,16,17,63,64,150  
-## Mercoledì 28 Ottobre 2020, 14:00
+## Mercoledì 28 Ottobre 2020, 13:20
 #### Geografia
+Spazio interrogazione\: storia.  
 Libro discipline, quaderno anelli stroria/italiano/geografia  
 ## Venerdì 30 Ottobre 2020, 10:30
 #### Italiano
@@ -32,6 +33,8 @@ Libro Percorsi, quaderno anelli italiano/grammatica
 ## Lunedì 2 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
+  
+Compiti\: studiare pag 6 e 7 + esercizio pag. 7. Leggere e sottolineare pag. 8 e 9. Completare schema sul quaderno integrando gli "studiosi"  
 ## Martedì 3 Novembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
