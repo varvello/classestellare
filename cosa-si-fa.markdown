@@ -10,11 +10,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 26 Ottobre 2020, 10:30
-#### Storia
-Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
-  
-Compiti\: leggi e studia pag. 2,3,4 e 5. Esercizio pag.5. Completa schema sul quaderno. Leggi e sottolinea pag. 6 e 7  
 ## Martedì 27 Ottobre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
