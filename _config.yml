@@ -10,5 +10,5 @@ collections:
     output: true
 livereload: true
 livereload_min_delay: 1
-livereload_max_delay: 1
+livereload_max_delay: 3
 image: "/uploads/boy.jpg"
