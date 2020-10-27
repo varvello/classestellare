@@ -9,5 +9,3 @@ collections:
     title: Uploads
     output: true
 image: "/uploads/boy.jpg"
-
-theme: jekyll-theme-leap-day
