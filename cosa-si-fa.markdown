@@ -6,13 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 27 Ottobre 2020, 11:30
-#### Italiano e mensa
-11.30 _ 12.00 ascolto e comprensione   
-12.00 _ 13.30 mensa e intervallo  
-  
-  
-Oggi interrogazione di Storia vedi compiti 26 ottobre  
 ## Mercoledì 28 Ottobre 2020, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
