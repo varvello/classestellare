@@ -32,6 +32,8 @@ Compiti\: studiare pag 6 e 7 + esercizio pag. 7. Leggere e sottolineare pag. 8 e
 ## Mercoledì 4 Novembre 2020, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
+  
+Compiti\: Percorsi pag 18, 19, 65 e 151. Finire lavoro sulle doppie sul quaderno di grammatica.  
 ## Mercoledì 4 Novembre 2020, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
@@ -52,3 +54,5 @@ Percorsi, quaderno italiano e grammatica
 ## Mercoledì 11 Novembre 2020, 14:00
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
+  
+Compiti\: studiare da pag 82 a pag. 87 di Discipline. Fare esercizi a pag 187/188.  
