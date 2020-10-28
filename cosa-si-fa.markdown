@@ -6,16 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 28 Ottobre 2020, 08:30
-#### Italiano
-Percorsi, quaderno italiano e grammatica  
-  
-COMPITI\: PERCORSI   
-\: pag. 9,16,17,63,64,150  
-## Mercoledì 28 Ottobre 2020, 13:20
-#### Geografia
-Spazio interrogazione\: storia.  
-Libro discipline, quaderno anelli stroria/italiano/geografia  
 ## Venerdì 30 Ottobre 2020, 10:30
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
