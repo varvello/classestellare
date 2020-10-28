@@ -5,7 +5,7 @@ permalink: "/cosa-si-fa"
 image: "/uploads/boy.jpg"
 ---
 
-# Cosa si fa e Cosa si porta live
+# Cosa si fa e Cosa si porta 2
 ## Mercoledì 28 Ottobre 2020, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
