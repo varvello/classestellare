@@ -11,12 +11,12 @@ image: "/uploads/boy.jpg"
 Libro Percorsi, quaderno anelli italiano/grammatica  
 ## Venerdì 30 Ottobre 2020, 18:00
 #### Padlet per gli assenti-3D
-<br><a href="https\://it.padlet.com/palma_scuoladb/classe3d" id="ow597" __is_owner="true">https\://it.padlet.com/palma_scuoladb/classe3d</a><br>Padlet con quanto fatto in classe e i compiti per la settimana prossima.  
+<br><a href="https://it.padlet.com/palma_scuoladb/classe3d" id="ow597" __is_owner="true">https://it.padlet.com/palma_scuoladb/classe3d</a><br>Padlet con quanto fatto in classe e i compiti per la settimana prossima.  
 ## Lunedì 2 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
   
-Compiti\: studiare pag 6 e 7 + esercizio pag. 7. Leggere e sottolineare pag. 8 e 9. Completare schema sul quaderno integrando gli "studiosi"  
+Compiti: studiare pag 6 e 7 + esercizio pag. 7. Leggere e sottolineare pag. 8 e 9. Completare schema sul quaderno integrando gli "studiosi"  
 ## Martedì 3 Novembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
@@ -26,7 +26,7 @@ Compiti\: studiare pag 6 e 7 + esercizio pag. 7. Leggere e sottolineare pag. 8 e
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
   
-Compiti\: Percorsi pag 18, 19, 65 e 151. Finire lavoro sulle doppie e sulla poesia sul quaderno.  
+Compiti: Percorsi pag 18, 19, 65 e 151. Finire lavoro sulle doppie e sulla poesia sul quaderno.  
 ## Mercoledì 4 Novembre 2020, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
@@ -48,7 +48,7 @@ Percorsi, quaderno italiano e grammatica
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
   
-Compiti\: studiare da pag 82 a pag. 87 di Discipline. Fare esercizi a pag 187/188.  
+Compiti: studiare da pag 82 a pag. 87 di Discipline. Fare esercizi a pag 187/188.  
 ## Venerdì 13 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
