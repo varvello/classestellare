@@ -23,7 +23,7 @@ Compiti\: studiare pag 6 e 7 + esercizio pag. 7. Leggere e sottolineare pag. 8 e
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
   
-Compiti\: Percorsi pag 18, 19, 65 e 151. Finire lavoro sulle doppie sul quaderno di grammatica.  
+Compiti\: Percorsi pag 18, 19, 65 e 151. Finire lavoro sulle doppie e sulla poesia sul quaderno.  
 ## Mercoledì 4 Novembre 2020, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
