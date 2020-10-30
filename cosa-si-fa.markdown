@@ -9,6 +9,9 @@ image: "/uploads/boy.jpg"
 ## Venerdì 30 Ottobre 2020, 10:30
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
+## Venerdì 30 Ottobre 2020, 18:00
+#### Padlet per gli assenti-3D
+<br><a href="https\://it.padlet.com/palma_scuoladb/classe3d" id="ow597" __is_owner="true">https\://it.padlet.com/palma_scuoladb/classe3d</a><br>Padlet con quanto fatto in classe e i compiti per la settimana prossima.  
 ## Lunedì 2 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
