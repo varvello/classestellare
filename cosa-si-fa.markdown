@@ -46,3 +46,6 @@ Compiti: studiare da pag 82 a pag. 87 di Discipline. Fare esercizi a pag 187/188
 ## Venerdì 13 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
+## Lunedì 16 Novembre 2020, 10:30
+#### Storia
+Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
