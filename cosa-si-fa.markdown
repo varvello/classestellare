@@ -30,6 +30,8 @@ Libro Percorsi, quaderno anelli italiano/grammatica
 ## Lunedì 9 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
+  
+Compiti: Discipline studia pag 8,9,10 esercizi pag 148 e 149  
 ## Martedì 10 Novembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
@@ -49,3 +51,8 @@ Libro Percorsi, quaderno anelli italiano/grammatica
 ## Lunedì 16 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
+## Martedì 17 Novembre 2020, 11:30
+#### Italiano e mensa
+11.30 _ 12.00 ascolto e comprensione   
+12.00 _ 13.30 mensa e intervallo  
+13.30 _ 14.00 spazio interrogazioni  
