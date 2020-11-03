@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 2 Novembre 2020, 10:30
-#### Storia
-Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
-  
-Compiti: studiare pag 6 e 7 + esercizio pag. 7. Leggere e sottolineare pag. 8 e 9. Completare schema sul quaderno integrando gli "studiosi"  
 ## Martedì 3 Novembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
