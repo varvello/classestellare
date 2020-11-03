@@ -35,6 +35,8 @@ Compiti: Discipline studia pag 8,9,10 esercizi pag 148 e 149
 ## Mercoledì 11 Novembre 2020, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
+  
+Compiti: Percorsi pag 20,21, 66,67,152,153  
 ## Mercoledì 11 Novembre 2020, 14:00
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
