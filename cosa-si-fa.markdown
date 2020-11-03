@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 2 Novembre 2020, 08:30
-#### Matematica svolta oggi.
-Verifica ultima parte: l'addizione in colonna con la prova, calcoli a mente, sommare facendo tappa alla decina.  
-La sottrazione pg. 19 del libro verde, la tabella della sottrazione pg. 20.  
-Il problema: la domanda indica l'operazione. Es. 2 e 3 pg. 42, da svolgersi sul libro.  
 ## Lunedì 2 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
