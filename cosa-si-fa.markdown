@@ -6,16 +6,14 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 3 Novembre 2020, 11:30
-#### Italiano e mensa
-11.30 _ 12.00 ascolto e comprensione   
-12.00 _ 13.30 mensa e intervallo  
-13.30 _ 14.00 spazio interrogazioni  
 ## Mercoledì 4 Novembre 2020, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
   
 Compiti: Percorsi pag 18, 19, 65 e 151. Finire lavoro sulle doppie e sulla poesia sul quaderno.  
+## Mercoledì 4 Novembre 2020, 12:00
+#### LEZIONI 3D PER CHI ERA ASSENTE
+<br><a href="https://padlet.com/palma_scuoladb/3D" id="ow727" __is_owner="true">https://padlet.com/palma_scuoladb/3D</a><br><br>PADLET CON QUANTO SVOLTO IN CLASSE&nbsp; IL 3-4-5-6-NOVEMBRE  
 ## Mercoledì 4 Novembre 2020, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
@@ -36,7 +34,7 @@ Compiti: Discipline studia pag 8,9,10 esercizi pag 148 e 149
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
   
-Compiti: Percorsi pag 20,21, 66,67,152,153  
+Compiti: Percorsi pag 20,21, 73,152,153. Finire lavoro sulla punteggiatura sul quaderno.  
 ## Mercoledì 11 Novembre 2020, 14:00
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
