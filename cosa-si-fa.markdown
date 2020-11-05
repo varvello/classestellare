@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 4 Novembre 2020, 14:00
-#### Arte
-Album fogli da disegno, cartellina, matite colorate, pennarelli  
 ## Venerdì 6 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
