@@ -6,12 +6,12 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Giovedì 5 Novembre 2020, 19:15
-#### Lezioni del 5 novembre 3D
-<br><a href="https://it.padlet.com/palma_scuoladb/3D" id="ow843" __is_owner="true">https://it.padlet.com/palma_scuoladb/3D</a><br>Padlet con aggiunta di quanto svolto oggi in classe<br>5 nov 2020  
 ## Venerdì 6 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
+## Venerdì 6 Novembre 2020, 20:00
+#### LEZIONE DI OGGI E COMPITI PER CASA
+<br><a href="https://padlet.com/palma_scuoladb/3D" id="ow570" __is_owner="true">https://padlet.com/palma_scuoladb/3D</a><br><br>LEZIONE DI OGGI E COMPITI PER LA PROSSIMA SETTIMANA  
 ## Lunedì 9 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
