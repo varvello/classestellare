@@ -11,6 +11,9 @@ image: "/uploads/boy.jpg"
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
   
 Compiti: Discipline studia pag 8,9,10 esercizi pag 148 e 149  
+## Lunedì 9 Novembre 2020, 20:00
+#### lezioni e compiti per chi era assente-matematica
+<br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a><br>Per chi era assente.  
 ## Martedì 10 Novembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
