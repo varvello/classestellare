@@ -5,7 +5,7 @@ permalink: "/ilmiotest"
 layout: default
 ---
 
-# Cosa si fa e Cosa si porta live
+# Cosa si fa e Cosa si porta 1
 __Ultimi Padlets__ 
 
 <sup>__Giovedì 5 Novembre 2020, 19:15__ - Lezioni del 5 novembre 3D
@@ -13,9 +13,6 @@ __Ultimi Padlets__
 
 <sup>__Venerdì 6 Novembre 2020, 20:00__ - LEZIONE DI OGGI E COMPITI PER CASA
 <br><a href="https://padlet.com/palma_scuoladb/3D" id="ow570" __is_owner="true">https://padlet.com/palma_scuoladb/3D</a><br><br>LEZIONE DI OGGI E COMPITI PER LA PROSSIMA SETTIMANA  </sup>
-
-<sup>__Lunedì 9 Novembre 2020, 20:00__ - lezioni e compiti per chi era assente-matematica
-<br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a><br>Per chi era assente.  </sup>
 
 ## Lunedì 9 Novembre 2020, 20:00
 #### lezioni e compiti per chi era assente-matematica
@@ -70,4 +67,4 @@ Percorsi, quaderno italiano e grammatica
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
 
-_Tue Nov 10 2020 18:04:56 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Nov 10 2020 18:09:10 GMT+0100 (Ora standard dell’Europa centrale)_
