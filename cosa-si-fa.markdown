@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 9 Novembre 2020, 10:30
-#### Storia
-Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
-  
-Compiti: Discipline studia pag 8,9,10 esercizi pag 148 e 149  
 ## Lunedì 9 Novembre 2020, 20:00
 #### lezioni e compiti per chi era assente-matematica
 <br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a><br>Per chi era assente.  
@@ -61,4 +56,4 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
 
-_Tue Nov 10 2020 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Nov 10 2020 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
