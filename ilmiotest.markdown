@@ -5,19 +5,16 @@ permalink: "/ilmiotest"
 layout: default
 ---
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-
-
+# Cosa si fa e Cosa si porta
+## Mercoledì 4 Novembre 2020, 12:00
+#### LEZIONI 3D PER CHI ERA ASSENTE
+<br><a href="https://padlet.com/palma_scuoladb/3D" id="ow727" __is_owner="true">https://padlet.com/palma_scuoladb/3D</a><br><br>PADLET CON QUANTO SVOLTO IN CLASSE&nbsp; IL 3-4-5-6-NOVEMBRE  
+## Giovedì 5 Novembre 2020, 19:15
+#### Lezioni del 5 novembre 3D
+<br><a href="https://it.padlet.com/palma_scuoladb/3D" id="ow843" __is_owner="true">https://it.padlet.com/palma_scuoladb/3D</a><br>Padlet con aggiunta di quanto svolto oggi in classe<br>5 nov 2020  
+## Venerdì 6 Novembre 2020, 20:00
+#### LEZIONE DI OGGI E COMPITI PER CASA
+<br><a href="https://padlet.com/palma_scuoladb/3D" id="ow570" __is_owner="true">https://padlet.com/palma_scuoladb/3D</a><br><br>LEZIONE DI OGGI E COMPITI PER LA PROSSIMA SETTIMANA  
 ## Lunedì 9 Novembre 2020, 20:00
 #### lezioni e compiti per chi era assente-matematica
 <br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a><br>Per chi era assente.  
-## Martedì 10 Novembre 2020, 11:30
-#### Italiano e mensa
-11.30 _ 12.00 ascolto e comprensione   
-12.00 _ 13.30 mensa e intervallo  
-13.30 _ 14.00 spazio interrogazioni  
-## Mercoledì 11 Novembre 2020, 08:30
-#### Italiano
-Percorsi, quaderno italiano e grammatica  
-
-_Tue Nov 10 2020 15:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
