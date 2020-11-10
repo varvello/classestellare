@@ -14,6 +14,9 @@ image: "/uploads/boy.jpg"
 11.30 _ 12.00 ascolto e comprensione   
 12.00 _ 13.30 mensa e intervallo  
 13.30 _ 14.00 spazio interrogazioni  
+## Martedì 10 Novembre 2020, 18:30
+#### Matematica-scienze-inglese per chi era assente
+<br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow559" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  
 ## Mercoledì 11 Novembre 2020, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
@@ -59,4 +62,4 @@ Percorsi, quaderno italiano e grammatica
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
 
-_Tue Nov 10 2020 15:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Nov 10 2020 19:01:23 GMT+0100 (Ora standard dell’Europa centrale)_
