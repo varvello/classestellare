@@ -6,7 +6,7 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-__Ultimi Padlets__ 
+<span style="color:#2B65CF">__Ultimi Padlets__</span> 
 
 <sup>__Venerdì 6 Novembre 2020, 20:00__ - LEZIONE DI OGGI E COMPITI PER CASA
 <br><a href="https://padlet.com/palma_scuoladb/3D" id="ow570" __is_owner="true">https://padlet.com/palma_scuoladb/3D</a><br><br>LEZIONE DI OGGI E COMPITI PER LA PROSSIMA SETTIMANA  </sup>
@@ -56,4 +56,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
 
-_Tue Nov 10 2020 20:44:56 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Nov 10 2020 20:46:52 GMT+0100 (Ora standard dell’Europa centrale)_
