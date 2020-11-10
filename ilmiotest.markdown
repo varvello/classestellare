@@ -1,6 +1,7 @@
 ---
 title: Test
 date: 2020-11-10 15:36:00 +01:00
+permalink: "/ilmiotest"
 ---
 
 # Cosa si fa e Cosa si porta
