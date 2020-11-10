@@ -6,7 +6,7 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta live
-Mercoledì 4 Novembre 2020, 12:00 - LEZIONI 3D PER CHI ERA ASSENTE
+__Mercoledì 4 Novembre 2020, 12:00 - LEZIONI 3D PER CHI ERA ASSENTE__
 <br><a href="https://padlet.com/palma_scuoladb/3D" id="ow727" __is_owner="true">https://padlet.com/palma_scuoladb/3D</a><br><br>PADLET CON QUANTO SVOLTO IN CLASSE&nbsp; IL 3-4-5-6-NOVEMBRE  
 #### Giovedì 5 Novembre 2020, 19:15 - Lezioni del 5 novembre 3D
 <br><a href="https://it.padlet.com/palma_scuoladb/3D" id="ow843" __is_owner="true">https://it.padlet.com/palma_scuoladb/3D</a><br>Padlet con aggiunta di quanto svolto oggi in classe<br>5 nov 2020  
