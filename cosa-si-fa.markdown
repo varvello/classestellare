@@ -6,6 +6,14 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
+__Ultimi Padlets__ 
+
+<sup>__Venerdì 6 Novembre 2020, 20:00__ - LEZIONE DI OGGI E COMPITI PER CASA
+<br><a href="https://padlet.com/palma_scuoladb/3D" id="ow570" __is_owner="true">https://padlet.com/palma_scuoladb/3D</a><br><br>LEZIONE DI OGGI E COMPITI PER LA PROSSIMA SETTIMANA  </sup>
+
+<sup>__Lunedì 9 Novembre 2020, 20:00__ - lezioni e compiti per chi era assente-matematica
+<br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a><br>Per chi era assente.  </sup>
+
 ## Lunedì 9 Novembre 2020, 20:00
 #### lezioni e compiti per chi era assente-matematica
 <br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a><br>Per chi era assente.  
@@ -47,19 +55,5 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 ## Venerdì 20 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
-## Lunedì 23 Novembre 2020, 10:30
-#### Storia
-Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
-## Martedì 24 Novembre 2020, 11:30
-#### Italiano e mensa
-11.30 _ 12.00 ascolto e comprensione   
-12.00 _ 13.30 mensa e intervallo  
-13.30 _ 14.00 spazio interrogazioni  
-## Mercoledì 25 Novembre 2020, 08:30
-#### Italiano
-Percorsi, quaderno italiano e grammatica  
-## Mercoledì 25 Novembre 2020, 14:00
-#### Geografia
-Libro discipline, quaderno anelli stroria/italiano/geografia  
 
-_Tue Nov 10 2020 20:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Nov 10 2020 20:39:07 GMT+0100 (Ora standard dell’Europa centrale)_
