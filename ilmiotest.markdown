@@ -8,7 +8,6 @@ layout: default
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 
-# Cosa si fa e Cosa si porta
 ## Lunedì 9 Novembre 2020, 20:00
 #### lezioni e compiti per chi era assente-matematica
 <br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a><br>Per chi era assente.  
