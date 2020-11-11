@@ -14,6 +14,9 @@ image: "/uploads/boy.jpg"
 <sup>__Venerdì 6 Novembre 2020, 20:00__ - LEZIONE DI OGGI E COMPITI PER CASA
 <br><a href="https://padlet.com/palma_scuoladb/3D" id="ow570" __is_owner="true">https://padlet.com/palma_scuoladb/3D</a><br><br>LEZIONE DI OGGI E COMPITI PER LA PROSSIMA SETTIMANA  </sup>
 
+<sup>__Lunedì 9 Novembre 2020, 20:00__ - lezioni e compiti per chi era assente-matematica
+<br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a><br>Per chi era assente.  </sup>
+
 ## Martedì 10 Novembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
@@ -50,4 +53,4 @@ Percorsi, quaderno italiano e grammatica
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Wed Nov 11 2020 09:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Nov 11 2020 09:58:20 GMT+0100 (Ora standard dell’Europa centrale)_
