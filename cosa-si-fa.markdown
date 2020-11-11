@@ -8,11 +8,11 @@ image: "/uploads/boy.jpg"
 # Cosa si fa e Cosa si porta
 <span style="color:#2B65CF">__Ultimi Padlets__</span> 
 
-<sup>__Venerdì 6 Novembre 2020, 20:00__ - LEZIONE DI OGGI E COMPITI PER CASA
-<br><a href="https://padlet.com/palma_scuoladb/3D" id="ow570" __is_owner="true">https://padlet.com/palma_scuoladb/3D</a><br><br>LEZIONE DI OGGI E COMPITI PER LA PROSSIMA SETTIMANA  </sup>
-
 <sup>__Lunedì 9 Novembre 2020, 20:00__ - lezioni e compiti per chi era assente-matematica
 <br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a><br>Per chi era assente.  </sup>
+
+<sup>__Martedì 10 Novembre 2020, 18:30__ - Matematica-scienze-inglese per chi era assente
+<br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow559" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  </sup>
 
 ## Mercoledì 11 Novembre 2020, 08:30
 #### Italiano
@@ -43,4 +43,4 @@ Percorsi, quaderno italiano e grammatica
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Wed Nov 11 2020 23:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Nov 12 2020 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
