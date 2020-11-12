@@ -43,4 +43,4 @@ Percorsi, quaderno italiano e grammatica
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Thu Nov 12 2020 02:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Nov 12 2020 04:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
