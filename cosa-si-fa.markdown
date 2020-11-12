@@ -14,11 +14,9 @@ image: "/uploads/boy.jpg"
 <sup>__Martedì 10 Novembre 2020, 18:30__ - Matematica-scienze-inglese per chi era assente
 <br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow559" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  </sup>
 
-## Mercoledì 11 Novembre 2020, 14:00
-#### Geografia
-Libro discipline, quaderno anelli stroria/italiano/geografia  
-  
-Compiti: studiare da pag 82 a pag. 87 di Discipline. Fare esercizi a pag 187/188.  
+## Giovedì 12 Novembre 2020, 15:30
+#### LEZIONI PER GLI ASSENTI DELL 11 E DEL 12 NOVEMBRE
+<a href="https://padlet.com/palma_scuoladb/terzaD" id="ow552" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  
 ## Venerdì 13 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
@@ -41,4 +39,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
 
-_Thu Nov 12 2020 15:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Nov 12 2020 16:53:46 GMT+0100 (Ora standard dell’Europa centrale)_
