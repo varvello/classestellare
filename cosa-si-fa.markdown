@@ -14,11 +14,6 @@ image: "/uploads/boy.jpg"
 <sup>__Martedì 10 Novembre 2020, 18:30__ - Matematica-scienze-inglese per chi era assente
 <br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow559" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  </sup>
 
-## Mercoledì 11 Novembre 2020, 08:30
-#### Italiano
-Percorsi, quaderno italiano e grammatica  
-  
-Compiti: Percorsi pag 20,21, 73,152,153. Finire lavoro sulla punteggiatura sul quaderno.  
 ## Mercoledì 11 Novembre 2020, 14:00
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
@@ -46,4 +41,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
 
-_Thu Nov 12 2020 11:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Nov 12 2020 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
