@@ -39,4 +39,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
 
-_Thu Nov 12 2020 23:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Nov 13 2020 01:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
