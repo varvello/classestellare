@@ -14,6 +14,9 @@ image: "/uploads/boy.jpg"
 <sup>__Martedì 10 Novembre 2020, 18:30__ - Matematica-scienze-inglese per chi era assente
 <br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow559" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  </sup>
 
+<sup>__Giovedì 12 Novembre 2020, 15:30__ - LEZIONI PER GLI ASSENTI DELL 11 E DEL 12 NOVEMBRE
+<a href="https://padlet.com/palma_scuoladb/terzaD" id="ow552" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  </sup>
+
 ## Venerdì 13 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
@@ -40,4 +43,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
 
-_Fri Nov 13 2020 23:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Nov 14 2020 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
