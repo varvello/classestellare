@@ -8,9 +8,6 @@ image: "/uploads/boy.jpg"
 # Cosa si fa e Cosa si porta
 <span style="color:#2B65CF">__Ultimi Padlets__</span> 
 
-<sup>__Lunedì 9 Novembre 2020, 20:00__ - lezioni e compiti per chi era assente-matematica
-<br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a><br>Per chi era assente.  </sup>
-
 <sup>__Martedì 10 Novembre 2020, 18:30__ - Matematica-scienze-inglese per chi era assente
 <br><a href="https://padlet.com/palma_scuoladb/terzaD" id="ow559" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  </sup>
 
@@ -43,4 +40,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
 
-_Sat Nov 14 2020 16:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Nov 14 2020 16:16:25 GMT+0100 (Ora standard dell’Europa centrale)_
