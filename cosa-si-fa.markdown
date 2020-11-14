@@ -17,9 +17,6 @@ image: "/uploads/boy.jpg"
 <sup>__Giovedì 12 Novembre 2020, 15:30__ - LEZIONI PER GLI ASSENTI DELL 11 E DEL 12 NOVEMBRE
 <a href="https://padlet.com/palma_scuoladb/terzaD" id="ow552" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  </sup>
 
-## Venerdì 13 Novembre 2020, 10:30
-#### Italiano
-Libro Percorsi, quaderno anelli italiano/grammatica  
 ## Lunedì 16 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
@@ -43,4 +40,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
 
-_Sat Nov 14 2020 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Nov 14 2020 14:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
