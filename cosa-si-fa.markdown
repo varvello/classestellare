@@ -8,9 +8,6 @@ image: "/uploads/boy.jpg"
 # Cosa si fa e Cosa si porta
 <span style="color:#2B65CF">__Ultimi Padlets__</span> 
 
-<sup>__Giovedì 12 Novembre 2020, 15:30__ - LEZIONI PER GLI ASSENTI DELL 11 E DEL 12 NOVEMBRE
-<a href="https://padlet.com/palma_scuoladb/terzaD" id="ow552" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  </sup>
-
 <sup>__Sabato 14 Novembre 2020, 15:30__ - PER GLI ASSENTI
 <a href="https://padlet.com/palma_scuoladb/terzaD" id="ow567" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  </sup>
 
@@ -51,4 +48,4 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 12.00 _ 13.30 mensa e intervallo  
 13.30 _ 14.00 spazio interrogazioni  
 
-_Mon Nov 16 2020 23:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Nov 17 2020 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
