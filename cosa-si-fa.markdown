@@ -33,6 +33,9 @@ Percorsi pag 22, 23, 66, 90, 91, 154
 ## Mercoledì 18 Novembre 2020, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
+## Mercoledì 18 Novembre 2020, 16:45
+#### colloquio genitori Rebecca
+  
 ## Venerdì 20 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
@@ -45,4 +48,4 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 12.00 _ 13.30 mensa e intervallo  
 13.30 _ 14.00 spazio interrogazioni  
 
-_Mon Nov 16 2020 18:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Nov 16 2020 19:17:19 GMT+0100 (Ora standard dell’Europa centrale)_
