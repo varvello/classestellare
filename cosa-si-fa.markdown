@@ -19,6 +19,9 @@ image: "/uploads/boy.jpg"
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
    
 Studia pag 12,13,14. Leggi pag. 15,16,17  
+## Lunedì 16 Novembre 2020, 19:30
+#### LEZIONE DI OGGI
+<br><a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow561" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>SVOLGI GLI ESERCIZI E DIVERTITI CON TETRIS E I SUDOKU.  
 ## Martedì 17 Novembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
@@ -48,4 +51,4 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 12.00 _ 13.30 mensa e intervallo  
 13.30 _ 14.00 spazio interrogazioni  
 
-_Mon Nov 16 2020 19:17:19 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Nov 16 2020 20:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
