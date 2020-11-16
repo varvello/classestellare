@@ -40,4 +40,4 @@ Libro Percorsi, quaderno anelli italiano/grammatica
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
 
-_Mon Nov 16 2020 06:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Nov 16 2020 07:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
