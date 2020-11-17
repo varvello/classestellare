@@ -11,6 +11,9 @@ image: "/uploads/boy.jpg"
 <sup>__Sabato 14 Novembre 2020, 15:30__ - PER GLI ASSENTI
 <a href="https://padlet.com/palma_scuoladb/terzaD" id="ow567" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  </sup>
 
+<sup>__Lunedì 16 Novembre 2020, 19:30__ - LEZIONE DI OGGI
+<br><a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow561" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>SVOLGI GLI ESERCIZI E DIVERTITI CON TETRIS E I SUDOKU.  </sup>
+
 ## Martedì 17 Novembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
@@ -46,4 +49,4 @@ Percorsi, quaderno italiano e grammatica
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
 
-_Tue Nov 17 2020 23:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Nov 18 2020 00:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
