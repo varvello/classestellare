@@ -11,11 +11,6 @@ image: "/uploads/boy.jpg"
 <sup>__Sabato 14 Novembre 2020, 15:30__ - PER GLI ASSENTI
 <a href="https://padlet.com/palma_scuoladb/terzaD" id="ow567" __is_owner="true">https://padlet.com/palma_scuoladb/terzaD</a>  </sup>
 
-## Lunedì 16 Novembre 2020, 10:30
-#### Storia
-Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
-   
-Studia pag 12,13,14. Leggi pag. 15,16,17  
 ## Lunedì 16 Novembre 2020, 19:30
 #### LEZIONE DI OGGI
 <br><a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow561" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>SVOLGI GLI ESERCIZI E DIVERTITI CON TETRIS E I SUDOKU.  
@@ -50,5 +45,8 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 ## Mercoledì 25 Novembre 2020, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
+## Mercoledì 25 Novembre 2020, 14:00
+#### Geografia
+Libro discipline, quaderno anelli stroria/italiano/geografia  
 
-_Tue Nov 17 2020 11:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Nov 17 2020 14:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
