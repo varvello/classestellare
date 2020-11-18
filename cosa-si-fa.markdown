@@ -22,6 +22,9 @@ Percorsi pag 22, 23, 66, 90, 91, 154
 ## Mercoledì 18 Novembre 2020, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
+## Mercoledì 18 Novembre 2020, 21:30
+#### LEZIONE DI OGGI
+<a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow552" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  
 ## Venerdì 20 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, quaderno anelli italiano/grammatica  
@@ -40,4 +43,4 @@ Percorsi, quaderno italiano e grammatica
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
 
-_Wed Nov 18 2020 21:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Nov 18 2020 22:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
