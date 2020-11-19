@@ -35,4 +35,4 @@ Libro discipline, quaderno anelli stroria/italiano/geografia
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Nov 19 2020 17:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Nov 19 2020 19:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
