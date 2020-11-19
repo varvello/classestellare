@@ -11,12 +11,17 @@ image: "/uploads/boy.jpg"
 <sup>__Lunedì 16 Novembre 2020, 19:30__ - LEZIONE DI OGGI
 <br><a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow561" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>SVOLGI GLI ESERCIZI E DIVERTITI CON TETRIS E I SUDOKU.  </sup>
 
+<sup>__Mercoledì 18 Novembre 2020, 21:30__ - LEZIONE DI OGGI
+<a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow552" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
+
 ## Venerdì 20 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 ## Lunedì 23 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
+  
+Studia pag 15, 16, 17 e fai gli esercizi (no i laboratori). Ripassa fino a pag 15. Leggi e prova a sottolineare a matita pag 18,19.  
 ## Martedì 24 Novembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
@@ -25,11 +30,14 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 ## Mercoledì 25 Novembre 2020, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
+  
+Compiti: Percorsi 24, 25, 67, 92, 93, 155  
 ## Mercoledì 25 Novembre 2020, 14:00
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
+Geografia: Studia da pag 88 a pag 91. Ripassa da pag 82 a pag. 87. Completa pag 87,89. Leggi pag 92 e 93  
 ## Venerdì 27 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Nov 19 2020 23:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Nov 20 2020 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
