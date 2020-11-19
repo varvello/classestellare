@@ -11,15 +11,12 @@ image: "/uploads/boy.jpg"
 <sup>__Lunedì 16 Novembre 2020, 19:30__ - LEZIONE DI OGGI
 <br><a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow561" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>SVOLGI GLI ESERCIZI E DIVERTITI CON TETRIS E I SUDOKU.  </sup>
 
-## Mercoledì 18 Novembre 2020, 14:00
-#### Arte
-Album fogli da disegno, cartellina, matite colorate, pennarelli  
 ## Mercoledì 18 Novembre 2020, 21:30
 #### LEZIONE DI OGGI
 <a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow552" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  
 ## Venerdì 20 Novembre 2020, 10:30
 #### Italiano
-Libro Percorsi, quaderno anelli italiano/grammatica  
+Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 ## Lunedì 23 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
@@ -36,6 +33,6 @@ Percorsi, quaderno italiano e grammatica
 Libro discipline, quaderno anelli stroria/italiano/geografia  
 ## Venerdì 27 Novembre 2020, 10:30
 #### Italiano
-Libro Percorsi, quaderno anelli italiano/grammatica  
+Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Nov 19 2020 14:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Nov 19 2020 16:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
