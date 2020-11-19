@@ -39,5 +39,8 @@ Percorsi, quaderno italiano e grammatica
 ## Mercoledì 25 Novembre 2020, 14:00
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
+## Venerdì 27 Novembre 2020, 10:30
+#### Italiano
+Libro Percorsi, quaderno anelli italiano/grammatica  
 
-_Thu Nov 19 2020 10:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Nov 19 2020 11:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
