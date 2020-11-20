@@ -8,9 +8,6 @@ image: "/uploads/boy.jpg"
 # Cosa si fa e Cosa si porta
 <span style="color:#2B65CF">__Ultimi Padlets__</span> 
 
-<sup>__Lunedì 16 Novembre 2020, 19:30__ - LEZIONE DI OGGI
-<br><a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow561" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>SVOLGI GLI ESERCIZI E DIVERTITI CON TETRIS E I SUDOKU.  </sup>
-
 <sup>__Mercoledì 18 Novembre 2020, 21:30__ - LEZIONE DI OGGI
 <a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow552" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
 
@@ -43,4 +40,4 @@ Geografia: Studia da pag 88 a pag 91. Ripassa da pag 82 a pag. 87. Completa pag 
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Fri Nov 20 2020 23:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Nov 21 2020 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
