@@ -11,9 +11,6 @@ image: "/uploads/boy.jpg"
 <sup>__Mercoledì 18 Novembre 2020, 21:30__ - LEZIONE DI OGGI
 <a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow552" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
 
-## Venerdì 20 Novembre 2020, 17:00
-#### lezione e compiti matematica-inglese
-<a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow533" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  
 ## Lunedì 23 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
@@ -37,4 +34,4 @@ Geografia: Studia da pag 88 a pag 91. Ripassa da pag 82 a pag. 87. Completa pag 
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Sat Nov 21 2020 17:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Nov 21 2020 18:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
