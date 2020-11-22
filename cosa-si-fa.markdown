@@ -8,9 +8,6 @@ image: "/uploads/boy.jpg"
 # Cosa si fa e Cosa si porta
 <span style="color:#2B65CF">__Ultimi Padlets__</span> 
 
-<sup>__Mercoledì 18 Novembre 2020, 21:30__ - LEZIONE DI OGGI
-<a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow552" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
-
 <sup>__Venerdì 20 Novembre 2020, 17:00__ - lezione e compiti matematica-inglese
 <a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow533" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
 
@@ -40,4 +37,4 @@ Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
 
-_Sun Nov 22 2020 23:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Nov 23 2020 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
