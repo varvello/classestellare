@@ -37,4 +37,4 @@ Geografia: Studia da pag 88 a pag 91. Ripassa da pag 82 a pag. 87. Completa pag 
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Sun Nov 22 2020 07:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sun Nov 22 2020 08:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
