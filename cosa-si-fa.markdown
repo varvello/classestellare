@@ -16,6 +16,9 @@ image: "/uploads/boy.jpg"
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
   
 Studia pag 15, 16, 17 e fai gli esercizi (no i laboratori). Ripassa fino a pag 15. Leggi e prova a sottolineare a matita pag 18,19.  
+## Lunedì 23 Novembre 2020, 17:30
+#### Lezione di oggi
+<a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  
 ## Martedì 24 Novembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
@@ -42,4 +45,4 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 12.00 _ 13.30 mensa e intervallo  
 13.30 _ 14.00 spazio interrogazioni  
 
-_Mon Nov 23 2020 16:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Nov 23 2020 19:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
