@@ -8,8 +8,8 @@ image: "/uploads/boy.jpg"
 # Cosa si fa e Cosa si porta
 <span style="color:#2B65CF">__Ultimi Padlets__</span> 
 
-<sup>__Venerdì 20 Novembre 2020, 17:00__ - lezione e compiti matematica-inglese
-<a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow533" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
+<sup>__Lunedì 23 Novembre 2020, 17:30__ - Lezione di oggi
+<a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
 
 ## Martedì 24 Novembre 2020, 11:30
 #### Italiano e mensa
@@ -43,4 +43,4 @@ Percorsi, quaderno italiano e grammatica
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Tue Nov 24 2020 23:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Nov 25 2020 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
