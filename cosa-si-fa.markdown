@@ -20,6 +20,9 @@ Compiti: Percorsi 24, 25, 67, 92, 93, 155
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
 Geografia: Studia da pag 88 a pag 91. Ripassa da pag 82 a pag. 87. Completa pag 87,89. Leggi pag 92 e 93  
+## Mercoledì 25 Novembre 2020, 19:00
+#### lezione
+<a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow994" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  
 ## Venerdì 27 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
@@ -38,4 +41,4 @@ Percorsi, quaderno italiano e grammatica
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Wed Nov 25 2020 18:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Nov 25 2020 19:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
