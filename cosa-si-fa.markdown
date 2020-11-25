@@ -11,11 +11,6 @@ image: "/uploads/boy.jpg"
 <sup>__Lunedì 23 Novembre 2020, 17:30__ - Lezione di oggi
 <a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
 
-## Martedì 24 Novembre 2020, 11:30
-#### Italiano e mensa
-11.30 _ 12.00 ascolto e comprensione   
-12.00 _ 13.30 mensa e intervallo  
-13.30 _ 14.00 spazio interrogazioni  
 ## Mercoledì 25 Novembre 2020, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
@@ -43,4 +38,4 @@ Percorsi, quaderno italiano e grammatica
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Wed Nov 25 2020 13:17:05 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Nov 25 2020 14:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
