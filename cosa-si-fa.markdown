@@ -11,9 +11,6 @@ image: "/uploads/boy.jpg"
 <sup>__Lunedì 23 Novembre 2020, 17:30__ - Lezione di oggi
 <a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
 
-## Mercoledì 25 Novembre 2020, 19:00
-#### lezione
-<a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow994" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  
 ## Venerdì 27 Novembre 2020, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
@@ -35,4 +32,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Nov 26 2020 17:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Nov 26 2020 21:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
