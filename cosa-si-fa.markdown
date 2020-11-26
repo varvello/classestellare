@@ -11,10 +11,6 @@ image: "/uploads/boy.jpg"
 <sup>__Lunedì 23 Novembre 2020, 17:30__ - Lezione di oggi
 <a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
 
-## Mercoledì 25 Novembre 2020, 14:00
-#### Geografia
-Libro discipline, quaderno anelli stroria/italiano/geografia  
-Geografia: Studia da pag 88 a pag 91. Ripassa da pag 82 a pag. 87. Completa pag 87,89. Leggi pag 92 e 93  
 ## Mercoledì 25 Novembre 2020, 19:00
 #### lezione
 <a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow994" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  
@@ -39,4 +35,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Nov 26 2020 15:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Nov 26 2020 16:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
