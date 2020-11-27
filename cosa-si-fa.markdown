@@ -8,9 +8,6 @@ image: "/uploads/boy.jpg"
 # Cosa si fa e Cosa si porta
 <span style="color:#2B65CF">__Ultimi Padlets__</span> 
 
-<sup>__Lunedì 23 Novembre 2020, 17:30__ - Lezione di oggi
-<a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow529" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
-
 <sup>__Mercoledì 25 Novembre 2020, 19:00__ - lezione
 <a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow994" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
 
@@ -43,4 +40,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Fri Nov 27 2020 23:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Nov 28 2020 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
