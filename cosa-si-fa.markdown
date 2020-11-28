@@ -11,9 +11,6 @@ image: "/uploads/boy.jpg"
 <sup>__Mercoledì 25 Novembre 2020, 19:00__ - lezione
 <a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow994" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
 
-## Venerdì 27 Novembre 2020, 18:30
-#### lezioni e compiti
-<a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow541" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  
 ## Lunedì 30 Novembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
@@ -37,4 +34,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Sat Nov 28 2020 18:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Nov 28 2020 20:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
