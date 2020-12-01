@@ -18,9 +18,7 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 Verifica: studia fino a pag 16.  
 ## Martedì 1 Dicembre 2020, 11:30
 #### Italiano e mensa
-11.30 _ 12.00 ascolto e comprensione   
-12.00 _ 13.30 mensa e intervallo  
-13.30 _ 14.00 spazio interrogazioni  
+11.30 _ 12.00 ascolto e comprensione <br>12.00 _ 13.30 mensa e intervallo<br>13.30 _ 14.00 spazio interrogazioni<br><br><a href="https://view.genial.ly/5fc54ca6b4ceef0d0bd00b42" id="ow1615" __is_owner="true">https://view.genial.ly/5fc54ca6b4ceef0d0bd00b42</a>  
 ## Mercoledì 2 Dicembre 2020, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
@@ -30,8 +28,14 @@ Pag 26,27,69, 94,95 Percorsi
 ## Mercoledì 2 Dicembre 2020, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
+## Mercoledì 2 Dicembre 2020, 17:00
+#### Colloqui individuali 3 D
+Link di accesso all'incontro:<br><a href="https://meet.google.com/xgn-hkto-dfz">https://meet.google.com/xgn-hkto-dfz</a><br><br>Modulo firme:<br><a href="https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link" id="ow3674" __is_owner="true">https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link</a>  
+## Giovedì 3 Dicembre 2020, 17:15
+#### Colloqui individuali 3d
+https://meet.google.com/xgn-hkto-dfz  
 ## Venerdì 4 Dicembre 2020, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Tue Dec 01 2020 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Dec 01 2020 01:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
