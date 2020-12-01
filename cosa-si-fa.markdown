@@ -44,5 +44,8 @@ https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsS
 ## Venerdì 4 Dicembre 2020, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
+## Mercoledì 9 Dicembre 2020, 08:30
+#### Italiano
+Percorsi, quaderno italiano e grammatica  
 
-_Tue Dec 01 2020 08:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Dec 01 2020 09:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
