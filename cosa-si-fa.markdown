@@ -30,12 +30,19 @@ Pag 26,27,69, 94,95 Percorsi
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 ## Mercoledì 2 Dicembre 2020, 17:00
 #### Colloqui individuali 3 D
-Link di accesso all'incontro:<br><a href="https://meet.google.com/xgn-hkto-dfz">https://meet.google.com/xgn-hkto-dfz</a><br><br>Modulo firme:<br><a href="https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link" id="ow3674" __is_owner="true">https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link</a>  
+Link di accesso all'incontro:  
+https://meet.google.com/xgn-hkto-dfz (https://meet.google.com/xgn-hkto-dfz)  
+  
+Modulo firme:  
+https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link (https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link)  
 ## Giovedì 3 Dicembre 2020, 17:15
 #### Colloqui individuali 3d
-https://meet.google.com/xgn-hkto-dfz  
+Link di accesso all'incontro https://meet.google.com/xgn-hkto-dfz  
+  
+Modulo firme:  
+https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link (https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link)  
 ## Venerdì 4 Dicembre 2020, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Tue Dec 01 2020 05:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Dec 01 2020 07:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
