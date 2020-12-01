@@ -11,11 +11,6 @@ image: "/uploads/boy.jpg"
 <sup>__Venerdì 27 Novembre 2020, 18:30__ - lezioni e compiti
 <a href="https://padlet.com/palma_scuoladb/ANCORA3D" id="ow541" __is_owner="true">https://padlet.com/palma_scuoladb/ANCORA3D</a>  </sup>
 
-## Lunedì 30 Novembre 2020, 10:30
-#### Storia
-Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
-  
-Verifica: studia fino a pag 16.  
 ## Martedì 1 Dicembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione <br>12.00 _ 13.30 mensa e intervallo<br>13.30 _ 14.00 spazio interrogazioni<br><br><a href="https://view.genial.ly/5fc54ca6b4ceef0d0bd00b42" id="ow1615" __is_owner="true">https://view.genial.ly/5fc54ca6b4ceef0d0bd00b42</a>  
@@ -48,4 +43,4 @@ Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
 
-_Tue Dec 01 2020 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Dec 01 2020 13:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
