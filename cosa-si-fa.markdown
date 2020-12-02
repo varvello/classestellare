@@ -20,17 +20,10 @@ Pag 26,27,69, 94,95 Percorsi
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 ## Mercoledì 2 Dicembre 2020, 17:00
 #### Colloqui individuali 3 D
-Link di accesso all'incontro:  
-https://meet.google.com/xgn-hkto-dfz (https://meet.google.com/xgn-hkto-dfz)  
-  
-Modulo firme:  
-https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link (https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link)  
+Link di accesso all'incontro:<br>https://meet.google.com/afw-egdd-fcb<br><br>Modulo firme:<br><a href="https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link</a> (<a href="https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link</a>)  
 ## Giovedì 3 Dicembre 2020, 17:15
 #### Colloqui individuali 3d
-Link di accesso all'incontro https://meet.google.com/xgn-hkto-dfz  
-  
-Modulo firme:  
-https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link (https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link)  
+Link di accesso all'incontro: https://meet.google.com/afw-egdd-fcb<br><br>Modulo firme:<br><a href="https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link</a> (<a href="https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link</a>)  
 ## Venerdì 4 Dicembre 2020, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
@@ -41,4 +34,4 @@ Percorsi, quaderno italiano e grammatica
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
 
-_Wed Dec 02 2020 15:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Dec 02 2020 17:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
