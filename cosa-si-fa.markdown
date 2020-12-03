@@ -14,12 +14,6 @@ image: "/uploads/boy.jpg"
 <sup>__Martedì 1 Dicembre 2020, 22:00__ - LEZIONE PER GLI ASSENTI
 <a href="https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2" id="ow544" __is_owner="true">https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2</a>  </sup>
 
-## Mercoledì 2 Dicembre 2020, 08:30
-#### Italiano
-Percorsi, quaderno italiano e grammatica  
-  
-COMPITI: completa le schede sul quaderno su accenti e monosillabi.  
-Pag 26,27,69, 94,95 Percorsi  
 ## Mercoledì 2 Dicembre 2020, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
@@ -42,4 +36,4 @@ Libro discipline, quaderno anelli stroria/italiano/geografia
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Dec 03 2020 11:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Dec 03 2020 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
