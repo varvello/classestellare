@@ -17,9 +17,6 @@ image: "/uploads/boy.jpg"
 <sup>__Mercoledì 2 Dicembre 2020, 17:00__ - Colloqui individuali 3 D
 Link di accesso all'incontro:<br>https://meet.google.com/afw-egdd-fcb<br><br>Modulo firme:<br><a href="https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link</a> (<a href="https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link</a>)  </sup>
 
-## Giovedì 3 Dicembre 2020, 17:15
-#### Colloqui individuali 3d
-Link di accesso all'incontro: <a href="https://meet.google.com/afw-egdd-fcb" id="ow319" __is_owner="true">https://meet.google.com/ecm-zhku-fte</a><br><br>Modulo firme:<br><a href="https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link</a> (<a href="https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLScRp5MoGTgM5WwURtTM1kAaR1O6Y9XNgGrGjnsSgUNVOoP16w/viewform?usp=sf_link</a>)  
 ## Venerdì 4 Dicembre 2020, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
@@ -33,4 +30,4 @@ Libro discipline, quaderno anelli stroria/italiano/geografia
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Fri Dec 04 2020 18:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Dec 04 2020 19:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
