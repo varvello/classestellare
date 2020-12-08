@@ -28,5 +28,8 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 ## Mercoledì 16 Dicembre 2020, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
+## Mercoledì 16 Dicembre 2020, 14:00
+#### Arte
+Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Tue Dec 08 2020 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Dec 08 2020 14:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
