@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 9 Dicembre 2020, 10:45
-#### Italiano
-Percorsi, quaderno italiano e grammatica  
-  
-per i compiti vedi file allegato  
 ## Mercoledì 9 Dicembre 2020, 14:00
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
@@ -35,4 +30,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Dec 10 2020 11:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Dec 10 2020 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
