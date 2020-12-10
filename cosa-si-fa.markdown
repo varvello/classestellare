@@ -31,5 +31,8 @@ Percorsi, quaderno italiano e grammatica
 ## Mercoledì 16 Dicembre 2020, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
+## Venerdì 18 Dicembre 2020, 10:30
+#### Italiano
+Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Dec 10 2020 09:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Dec 10 2020 11:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
