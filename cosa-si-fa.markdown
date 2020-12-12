@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Venerdì 11 Dicembre 2020, 10:30
-#### Italiano
-Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 ## Lunedì 14 Dicembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
@@ -30,4 +27,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Sat Dec 12 2020 11:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Dec 12 2020 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
