@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Sabato 12 Dicembre 2020, 16:00
-#### LEZIONI E COMPITI
-<a href="https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2" id="ow1396" __is_owner="true">https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2</a>  
 ## Lunedì 14 Dicembre 2020, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
@@ -33,4 +30,4 @@ Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
 
-_Sun Dec 13 2020 16:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sun Dec 13 2020 17:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
