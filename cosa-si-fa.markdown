@@ -29,5 +29,8 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 ## Venerdì 18 Dicembre 2020, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
+## Lunedì 21 Dicembre 2020, 10:30
+#### Storia
+Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
 
-_Sun Dec 13 2020 10:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sun Dec 13 2020 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
