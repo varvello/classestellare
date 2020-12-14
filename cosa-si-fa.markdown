@@ -40,4 +40,4 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 12.00 _ 13.30 mensa e intervallo  
 13.30 _ 14.00 spazio interrogazioni  
 
-_Mon Dec 14 2020 12:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Dec 14 2020 13:36:36 GMT+0100 (Ora standard dell’Europa centrale)_
