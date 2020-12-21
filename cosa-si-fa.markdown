@@ -14,5 +14,8 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 11.30 _ 12.00 ascolto e comprensione   
 12.00 _ 13.30 mensa e intervallo  
 13.30 _ 14.00 spazio interrogazioni  
+## Martedì 22 Dicembre 2020, 16:30
+#### lezione di oggi
+<a href="https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2" id="ow972" __is_owner="true">https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2</a>  
 
-_Mon Dec 21 2020 15:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Dec 21 2020 16:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
