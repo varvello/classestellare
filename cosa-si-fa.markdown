@@ -18,4 +18,4 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 #### lezione di oggi
 <a href="https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2" id="ow972" __is_owner="true">https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2</a>  
 
-_Mon Dec 21 2020 21:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Dec 21 2020 22:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
