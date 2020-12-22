@@ -15,4 +15,4 @@ image: "/uploads/boy.jpg"
 #### lezione di oggi
 <a href="https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2" id="ow972" __is_owner="true">https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2</a>  
 
-_Tue Dec 22 2020 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Dec 22 2020 14:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
