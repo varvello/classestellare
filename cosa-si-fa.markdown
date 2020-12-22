@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 21 Dicembre 2020, 10:30
-#### Storia
-Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
 ## Martedì 22 Dicembre 2020, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
@@ -18,4 +15,4 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 #### lezione di oggi
 <a href="https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2" id="ow972" __is_owner="true">https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2</a>  
 
-_Tue Dec 22 2020 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Dec 22 2020 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
