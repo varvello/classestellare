@@ -18,4 +18,4 @@ image: "/uploads/boy.jpg"
 #### Compiti per le vacanze di Natale
 <a href="https://padlet.com/palma_scuoladb/fnvyqdt3wsxfuwt9" id="ow730" __is_owner="true">https://padlet.com/palma_scuoladb/fnvyqdt3wsxfuwt9</a>  
 
-_Wed Dec 23 2020 08:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Dec 23 2020 09:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
