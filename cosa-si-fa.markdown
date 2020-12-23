@@ -6,11 +6,8 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 22 Dicembre 2020, 16:30
-#### lezione di oggi
-<a href="https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2" id="ow972" __is_owner="true">https://padlet.com/palma_scuoladb/2klvz2rvpvcm9ly2</a>  
 ## Martedì 22 Dicembre 2020, 18:30
 #### Compiti per le vacanze di Natale
 <a href="https://padlet.com/palma_scuoladb/fnvyqdt3wsxfuwt9" id="ow730" __is_owner="true">https://padlet.com/palma_scuoladb/fnvyqdt3wsxfuwt9</a>  
 
-_Wed Dec 23 2020 17:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Dec 23 2020 18:15:56 GMT+0100 (Ora standard dell’Europa centrale)_
