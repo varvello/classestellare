@@ -15,4 +15,4 @@ image: "/uploads/boy.jpg"
 <a href="https://padlet.com/palma_scuoladb/fnvyqdt3wsxfuwt9" id="ow730" __is_owner="true">https://padlet.com/palma_scuoladb/fnvyqdt3wsxfuwt9</a>  </sup>
 
 
-_Thu Dec 24 2020 09:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Dec 24 2020 10:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
