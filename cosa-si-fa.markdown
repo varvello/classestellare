@@ -7,4 +7,4 @@ image: "/uploads/boy.jpg"
 
 # Cosa si fa e Cosa si porta
 
-_Tue Dec 29 2020 14:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Dec 29 2020 16:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
