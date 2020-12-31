@@ -6,5 +6,8 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
+## Venerdì 8 Gennaio 2021, 10:30
+#### Italiano
+Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Dec 31 2020 09:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Dec 31 2020 11:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
