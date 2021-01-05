@@ -20,5 +20,8 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 ## Mercoledì 13 Gennaio 2021, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
+## Mercoledì 13 Gennaio 2021, 14:00
+#### Arte
+Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Tue Jan 05 2021 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Jan 05 2021 14:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
