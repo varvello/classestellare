@@ -23,5 +23,8 @@ Percorsi, quaderno italiano e grammatica
 ## Mercoledì 13 Gennaio 2021, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
+## Venerdì 15 Gennaio 2021, 10:30
+#### Italiano
+Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Jan 07 2021 10:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Jan 07 2021 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
