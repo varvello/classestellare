@@ -20,6 +20,8 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 ## Mercoledì 13 Gennaio 2021, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
+  
+compiti: Libro letture: leggere e fare esercizio pag 60,61. Studiare a memoria pag 62. Leggere ed esercizi pag 63, 67,68 e 69  
 ## Mercoledì 13 Gennaio 2021, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
@@ -27,4 +29,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Fri Jan 08 2021 15:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Jan 08 2021 16:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
