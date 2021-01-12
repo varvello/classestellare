@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 11 Gennaio 2021, 10:30
-#### Storia
-Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
 ## Martedì 12 Gennaio 2021, 11:30
 #### Italiano e mensa
 11.30 _ 12.00 ascolto e comprensione   
@@ -37,4 +34,4 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
 
-_Tue Jan 12 2021 11:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Jan 12 2021 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
