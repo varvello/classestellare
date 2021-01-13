@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 12 Gennaio 2021, 11:30
-#### Italiano e mensa
-11.30 _ 12.00 ascolto e comprensione   
-12.00 _ 13.30 mensa e intervallo  
-13.30 _ 14.00 spazio interrogazioni  
 ## Mercoledì 13 Gennaio 2021, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
@@ -25,6 +20,8 @@ Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.
 ## Lunedì 18 Gennaio 2021, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
+  
+Studiare fino a pag 22 e leggere pag 23. Fare pag 154 e 155  
 ## Martedì 19 Gennaio 2021, 11:30
 #### Motoria e mensa
 11.30 _ 12.00 motoria  
@@ -39,4 +36,4 @@ Percorsi, quaderno italiano e grammatica
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
 
-_Wed Jan 13 2021 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Jan 13 2021 14:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
