@@ -26,10 +26,12 @@ Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
 ## Martedì 19 Gennaio 2021, 11:30
-#### Italiano e mensa
-11.30 _ 12.00 ascolto e comprensione   
+#### Motoria e mensa
+11.30 _ 12.00 motoria  
 12.00 _ 13.30 mensa e intervallo  
-13.30 _ 14.00 spazio interrogazioni  
+13.30 _ 14.00 mindfluness  
+  
+Indossare scarpe da ginnastica e abbigliamento comodo  
 ## Mercoledì 20 Gennaio 2021, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
@@ -37,4 +39,4 @@ Percorsi, quaderno italiano e grammatica
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
 
-_Wed Jan 13 2021 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Jan 13 2021 01:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
