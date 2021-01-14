@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 13 Gennaio 2021, 08:30
-#### Italiano
-Percorsi, quaderno italiano e grammatica  
-  
-compiti: Libro letture: leggere e fare esercizio pag 60,61. Studiare a memoria pag 62. Leggere ed esercizi pag 63, 67,68 e 69  
 ## Mercoledì 13 Gennaio 2021, 14:00
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
@@ -39,4 +34,4 @@ Libro discipline, quaderno anelli stroria/italiano/geografia
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Jan 14 2021 11:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Jan 14 2021 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
