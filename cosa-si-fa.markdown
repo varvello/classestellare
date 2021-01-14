@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 13 Gennaio 2021, 14:00
-#### Arte
-Album fogli da disegno, cartellina, matite colorate, pennarelli  
 ## Venerdì 15 Gennaio 2021, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
@@ -34,4 +31,4 @@ Libro discipline, quaderno anelli stroria/italiano/geografia
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Jan 14 2021 15:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Jan 14 2021 16:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
