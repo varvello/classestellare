@@ -35,5 +35,8 @@ Percorsi, quaderno italiano e grammatica
 ## Mercoledì 20 Gennaio 2021, 14:00
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
+## Venerdì 22 Gennaio 2021, 10:30
+#### Italiano
+Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Jan 14 2021 10:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Jan 14 2021 11:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
