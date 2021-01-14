@@ -6,6 +6,9 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
+## Giovedì 14 Gennaio 2021, 17:30
+#### Lezioni di gennaio
+<a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow613" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  
 ## Venerdì 15 Gennaio 2021, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
@@ -31,4 +34,4 @@ Libro discipline, quaderno anelli stroria/italiano/geografia
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Jan 14 2021 16:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Jan 14 2021 17:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
