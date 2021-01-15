@@ -27,6 +27,8 @@ Indossare scarpe da ginnastica e abbigliamento comodo
 ## Mercoledì 20 Gennaio 2021, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
+  
+Compiti: Percorsi pag 28,29, 31,32,33,98,99,100,101, 102  
 ## Mercoledì 20 Gennaio 2021, 14:00
 #### Geografia
 Libro discipline, quaderno anelli stroria/italiano/geografia  
@@ -34,4 +36,4 @@ Libro discipline, quaderno anelli stroria/italiano/geografia
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Fri Jan 15 2021 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Jan 15 2021 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
