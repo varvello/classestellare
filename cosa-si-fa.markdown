@@ -11,9 +11,6 @@ image: "/uploads/boy.jpg"
 <sup>__Giovedì 14 Gennaio 2021, 17:30__ - Lezioni di gennaio
 <a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow613" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  </sup>
 
-## Venerdì 15 Gennaio 2021, 10:30
-#### Italiano
-Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 ## Lunedì 18 Gennaio 2021, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
@@ -38,4 +35,4 @@ Libro discipline, quaderno anelli stroria/italiano/geografia
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Sat Jan 16 2021 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Jan 16 2021 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
