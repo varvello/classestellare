@@ -34,5 +34,8 @@ Libro discipline, quaderno anelli stroria/italiano/geografia
 ## Venerdì 22 Gennaio 2021, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
+## Lunedì 25 Gennaio 2021, 10:30
+#### Storia
+Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
 
-_Sun Jan 17 2021 09:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sun Jan 17 2021 11:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
