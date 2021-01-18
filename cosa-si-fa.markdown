@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-<span style="color:#2B65CF">__Ultimi Padlets__</span> 
-
-<sup>__Giovedì 14 Gennaio 2021, 17:30__ - Lezioni di gennaio
-<a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow613" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  </sup>
-
 ## Lunedì 18 Gennaio 2021, 10:30
 #### Storia
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
@@ -48,4 +43,4 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
   
 Indossare scarpe da ginnastica e abbigliamento comodo  
 
-_Mon Jan 18 2021 23:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Jan 19 2021 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
