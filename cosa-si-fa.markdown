@@ -16,6 +16,9 @@ image: "/uploads/boy.jpg"
 Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
   
 Studiare fino a pag 22 e leggere pag 23. Fare pag. 153 e 154  
+## Lunedì 18 Gennaio 2021, 17:30
+#### Lezione di oggi
+<a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow600" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  
 ## Martedì 19 Gennaio 2021, 11:30
 #### Motoria e mensa
 11.30 _ 12.00 motoria  
@@ -45,4 +48,4 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
   
 Indossare scarpe da ginnastica e abbigliamento comodo  
 
-_Mon Jan 18 2021 17:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Jan 18 2021 18:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
