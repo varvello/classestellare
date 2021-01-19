@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 18 Gennaio 2021, 17:30
-#### Lezione di oggi
-<a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow600" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  
 ## Martedì 19 Gennaio 2021, 11:30
 #### Motoria e mensa
 11.30 _ 12.00 motoria  
@@ -47,4 +44,4 @@ Percorsi, quaderno italiano e grammatica
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Tue Jan 19 2021 18:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Jan 19 2021 19:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
