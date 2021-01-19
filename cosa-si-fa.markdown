@@ -13,6 +13,9 @@ image: "/uploads/boy.jpg"
 13.30 _ 14.00 mindfluness  
   
 Indossare scarpe da ginnastica e abbigliamento comodo  
+## Martedì 19 Gennaio 2021, 19:30
+#### Lezioni di oggi
+<a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow612" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  
 ## Mercoledì 20 Gennaio 2021, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
@@ -44,4 +47,4 @@ Percorsi, quaderno italiano e grammatica
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Tue Jan 19 2021 19:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Jan 19 2021 20:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
