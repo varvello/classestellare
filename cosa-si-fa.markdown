@@ -42,5 +42,11 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
 13.30 _ 14.00 mindfluness  
   
 Indossare scarpe da ginnastica e abbigliamento comodo  
+## Mercoledì 27 Gennaio 2021, 00:00
+#### INCONTRO INS. SOSTEGNO
+  
+## Mercoledì 27 Gennaio 2021, 08:30
+#### Italiano
+Percorsi, quaderno italiano e grammatica  
 
-_Tue Jan 19 2021 07:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Jan 19 2021 10:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
