@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 18 Gennaio 2021, 10:30
-#### Storia
-Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
-  
-Studiare fino a pag 22 e leggere pag 23. Fare pag. 153 e 154  
 ## Lunedì 18 Gennaio 2021, 17:30
 #### Lezione di oggi
 <a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow600" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  
@@ -49,4 +44,4 @@ Indossare scarpe da ginnastica e abbigliamento comodo
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
 
-_Tue Jan 19 2021 12:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Jan 19 2021 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
