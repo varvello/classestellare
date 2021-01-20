@@ -11,9 +11,6 @@ image: "/uploads/boy.jpg"
 <sup>__Lunedì 18 Gennaio 2021, 17:30__ - Lezione di oggi
 <a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow600" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  </sup>
 
-## Martedì 19 Gennaio 2021, 19:30
-#### Lezioni di oggi
-<a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow612" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  
 ## Mercoledì 20 Gennaio 2021, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
@@ -45,4 +42,4 @@ Percorsi, quaderno italiano e grammatica
 #### Arte
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Wed Jan 20 2021 20:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Jan 20 2021 21:15:32 GMT+0100 (Ora standard dell’Europa centrale)_
