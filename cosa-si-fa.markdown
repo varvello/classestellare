@@ -14,9 +14,6 @@ image: "/uploads/boy.jpg"
 <sup>__Martedì 19 Gennaio 2021, 19:30__ - Lezioni di oggi
 <a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow612" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  </sup>
 
-## Mercoledì 20 Gennaio 2021, 14:00
-#### Geografia
-Libro discipline, quaderno anelli stroria/italiano/geografia  
 ## Venerdì 22 Gennaio 2021, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
@@ -43,4 +40,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Thu Jan 21 2021 15:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Jan 21 2021 16:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
