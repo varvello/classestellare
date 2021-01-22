@@ -8,9 +8,6 @@ image: "/uploads/boy.jpg"
 # Cosa si fa e Cosa si porta
 <span style="color:#2B65CF">__Ultimi Padlets__</span> 
 
-<sup>__Lunedì 18 Gennaio 2021, 17:30__ - Lezione di oggi
-<a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow600" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  </sup>
-
 <sup>__Martedì 19 Gennaio 2021, 19:30__ - Lezioni di oggi
 <a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow612" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  </sup>
 
@@ -40,4 +37,4 @@ Album fogli da disegno, cartellina, matite colorate, pennarelli
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
 
-_Fri Jan 22 2021 23:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Jan 23 2021 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
