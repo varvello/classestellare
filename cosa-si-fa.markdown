@@ -31,8 +31,8 @@ Indossare scarpe da ginnastica e abbigliamento comodo
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
 ## Mercoledì 27 Gennaio 2021, 14:00
-#### Arte
-Album fogli da disegno, cartellina, matite colorate, pennarelli  
+#### Geografia
+  
 ## Venerdì 29 Gennaio 2021, 10:30
 #### Italiano
 Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
@@ -47,4 +47,4 @@ Libro delle discipline e atlante _ quaderno ad anelli fogli a righe
   
 Indossare scarpe da ginnastica e abbigliamento comodo  
 
-_Mon Jan 25 2021 16:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Jan 25 2021 17:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
