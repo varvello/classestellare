@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-<span style="color:#2B65CF">__Ultimi Padlets__</span> 
-
-<sup>__Martedì 19 Gennaio 2021, 19:30__ - Lezioni di oggi
-<a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow612" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  </sup>
-
 ## Martedì 26 Gennaio 2021, 11:30
 #### Motoria e mensa
 11.30 _ 12.00 motoria  
@@ -47,4 +42,4 @@ Percorsi, quaderno italiano e grammatica
 #### Arte e immagine
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Tue Jan 26 2021 23:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Jan 27 2021 00:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
