@@ -43,5 +43,8 @@ Indossare scarpe da ginnastica e abbigliamento comodo
 ## Mercoledì 3 Febbraio 2021, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
+## Mercoledì 3 Febbraio 2021, 14:00
+#### Arte e immagine
+Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Tue Jan 26 2021 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Jan 26 2021 14:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
