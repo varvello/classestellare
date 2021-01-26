@@ -11,9 +11,6 @@ image: "/uploads/boy.jpg"
 <sup>__Martedì 19 Gennaio 2021, 19:30__ - Lezioni di oggi
 <a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow612" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  </sup>
 
-## Lunedì 25 Gennaio 2021, 10:30
-#### Storia
-Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
 ## Martedì 26 Gennaio 2021, 11:30
 #### Motoria e mensa
 11.30 _ 12.00 motoria  
@@ -47,4 +44,4 @@ Indossare scarpe da ginnastica e abbigliamento comodo
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
 
-_Tue Jan 26 2021 12:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Jan 26 2021 13:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
