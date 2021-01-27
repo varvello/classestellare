@@ -13,14 +13,14 @@ image: "/uploads/boy.jpg"
 13.30 _ 14.00 mindfluness  
   
 Indossare scarpe da ginnastica e abbigliamento comodo  
-## Mercoledì 27 Gennaio 2021, 00:00
-#### INCONTRO INS. SOSTEGNO
-  
 ## Mercoledì 27 Gennaio 2021, 08:30
 #### Italiano
 Percorsi, quaderno italiano e grammatica  
 ## Mercoledì 27 Gennaio 2021, 14:00
 #### Geografia
+  
+## Mercoledì 27 Gennaio 2021, 16:30
+#### INCONTRO INS. SOSTEGNO
   
 ## Venerdì 29 Gennaio 2021, 10:30
 #### Italiano
@@ -42,4 +42,4 @@ Percorsi, quaderno italiano e grammatica
 #### Arte e immagine
 Album fogli da disegno, cartellina, matite colorate, pennarelli  
 
-_Wed Jan 27 2021 07:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Jan 27 2021 09:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
