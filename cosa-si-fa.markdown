@@ -11,9 +11,6 @@ image: "/uploads/boy.jpg"
 <sup>__Venerdì 29 Gennaio 2021, 16:30__ - Lezioni e compiti per martedi 2 febbraio
 <a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow622" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  </sup>
 
-## Mercoledì 3 Febbraio 2021, 14:00
-#### Arte e immagine
-Cartellina, fogli da disegno, colla, forbici, matite e pastelli  
 ## Venerdì 5 Febbraio 2021, 10:30
 #### Italiano
 Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
@@ -47,4 +44,4 @@ Libro DIscipline
 #### Italiano
 Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Feb 04 2021 15:57:57 GMT+0100 (Central European Standard Time)_
+_Thu Feb 04 2021 16:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
