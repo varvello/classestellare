@@ -8,6 +8,7 @@ image: "/uploads/boy.jpg"
 # Cosa si fa e Cosa si porta
 <span style="color:#2B65CF">__Ultimi Padlets__</span> 
 
+
 <sup>__Venerdì 29 Gennaio 2021, 16:30__ - Lezioni e compiti per martedi 2 febbraio
 <a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow622" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  </sup>
 
