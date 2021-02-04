@@ -6,40 +6,46 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 26 Gennaio 2021, 11:30
-#### Motoria e mensa
-11.30 _ 12.00 motoria  
-12.00 _ 13.30 mensa e intervallo  
-13.30 _ 14.00 mindfluness  
-  
-Indossare scarpe da ginnastica e abbigliamento comodo  
-## Mercoledì 27 Gennaio 2021, 08:30
-#### Italiano
-Percorsi, quaderno italiano e grammatica  
-## Mercoledì 27 Gennaio 2021, 14:00
-#### Geografia
-  
-## Mercoledì 27 Gennaio 2021, 16:30
-#### INCONTRO INS. SOSTEGNO
-  
-## Venerdì 29 Gennaio 2021, 10:30
-#### Italiano
-Libro Percorsi, vocabolario, quaderno anelli italiano/grammatica.  
-## Lunedì 1 Febbraio 2021, 10:30
-#### Storia
-Libro delle discipline e atlante _ quaderno ad anelli fogli a righe  
-## Martedì 2 Febbraio 2021, 11:30
-#### Motoria e mensa
-11.30 _ 12.00 motoria  
-12.00 _ 13.30 mensa e intervallo  
-13.30 _ 14.00 mindfluness  
-  
-Indossare scarpe da ginnastica e abbigliamento comodo  
-## Mercoledì 3 Febbraio 2021, 08:30
-#### Italiano
-Percorsi, quaderno italiano e grammatica  
+<span style="color:#2B65CF">__Ultimi Padlets__</span> 
+
+
+<sup>__Venerdì 29 Gennaio 2021, 16:30__ - Lezioni e compiti per martedi 2 febbraio
+<a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow622" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  </sup>
+
 ## Mercoledì 3 Febbraio 2021, 14:00
 #### Arte e immagine
-Album fogli da disegno, cartellina, matite colorate, pennarelli  
+Cartellina, fogli da disegno, colla, forbici, matite e pastelli  
+## Venerdì 5 Febbraio 2021, 10:30
+#### Italiano
+Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
+  
+A grande richiesta...un padlet dell'anno scorso  
+https://padlet.com/luciano_calaresu/ro2b05gwtfhxlthv  
+la password è 3d  
+## Lunedì 8 Febbraio 2021, 10:30
+#### Storia
+Libro discipline, quaderno  
+## Martedì 9 Febbraio 2021, 11:30
+#### Motoria
+Scarpe da ginnastica indossate, abbigliamento comodo  
+## Martedì 9 Febbraio 2021, 12:00
+#### Mensa e intervallo
+  
+## Martedì 9 Febbraio 2021, 13:30
+#### Mindfluness
+  
+## Mercoledì 10 Febbraio 2021, 08:30
+#### Italiano
+Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
+  
+  
+Compiti: Percorsi pag.38, 39, 103, 104, 105, 135.  
+Letture: 40, 41, 42, 43, 44  
+## Mercoledì 10 Febbraio 2021, 14:00
+#### Geografia
+Libro DIscipline  
+## Venerdì 12 Febbraio 2021, 10:30
+#### Italiano
+Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Wed Jan 27 2021 10:15:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Feb 04 2021 15:22:39 GMT+0100 (Central European Standard Time)_
