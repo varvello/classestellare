@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-<span style="color:#2B65CF">__Ultimi Padlets__</span> 
-
-<sup>__Venerdì 29 Gennaio 2021, 16:30__ - Lezioni e compiti per martedi 2 febbraio
-<a href="https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6" id="ow622" __is_owner="true">https://padlet.com/palma_scuoladb/mvrdumbmzah5ieb6</a>  </sup>
-
 ## Venerdì 5 Febbraio 2021, 10:30
 #### Italiano
 Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
@@ -44,4 +39,4 @@ Libro DIscipline
 #### Italiano
 Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Fri Feb 05 2021 22:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Feb 06 2021 00:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
