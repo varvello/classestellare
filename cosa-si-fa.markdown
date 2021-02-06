@@ -6,13 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Venerdì 5 Febbraio 2021, 10:30
-#### Italiano
-Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
-  
-A grande richiesta...un padlet dell'anno scorso  
-https://padlet.com/luciano_calaresu/ro2b05gwtfhxlthv  
-la password è 3d  
 ## Lunedì 8 Febbraio 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
@@ -39,4 +32,4 @@ Libro DIscipline
 #### Italiano
 Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Sat Feb 06 2021 11:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Feb 06 2021 13:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
