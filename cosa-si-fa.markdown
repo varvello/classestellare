@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 8 Febbraio 2021, 10:30
-#### Storia
-Libro discipline, quaderno  
 ## Martedì 9 Febbraio 2021, 11:30
 #### Motoria
 Scarpe da ginnastica indossate, abbigliamento comodo  
@@ -32,4 +29,4 @@ Libro DIscipline
 #### Italiano
 Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Tue Feb 09 2021 12:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Feb 09 2021 13:47:47 GMT+0100 (Ora standard dell’Europa centrale)_
