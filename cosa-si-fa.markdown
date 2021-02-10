@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 9 Febbraio 2021, 13:30
-#### Mindfluness
-  
 ## Mercoledì 10 Febbraio 2021, 08:30
 #### Italiano
 Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
@@ -23,4 +20,4 @@ Libro DIscipline
 #### Italiano
 Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Wed Feb 10 2021 13:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Feb 10 2021 14:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
