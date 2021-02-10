@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 9 Febbraio 2021, 12:00
-#### Mensa e intervallo
-  
 ## Martedì 9 Febbraio 2021, 13:30
 #### Mindfluness
   
@@ -26,4 +23,4 @@ Libro DIscipline
 #### Italiano
 Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Wed Feb 10 2021 12:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Feb 10 2021 13:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
