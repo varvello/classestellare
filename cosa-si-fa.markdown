@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 10 Febbraio 2021, 14:00
-#### Geografia
-Libro DIscipline  
 ## Venerdì 12 Febbraio 2021, 10:30
 #### Italiano
 Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
@@ -16,4 +13,4 @@ Libro discipline, Letture, quaderno, fogli, se possibile vocabolario
 #### Italiano
 Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Feb 11 2021 15:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Feb 11 2021 16:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
