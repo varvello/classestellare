@@ -19,5 +19,8 @@ Libro DIscipline
 ## Venerdì 12 Febbraio 2021, 10:30
 #### Italiano
 Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
+## Venerdì 19 Febbraio 2021, 10:30
+#### Italiano
+Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Feb 11 2021 09:47:34 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Feb 11 2021 10:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
