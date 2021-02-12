@@ -9,8 +9,11 @@ image: "/uploads/boy.jpg"
 ## Venerdì 12 Febbraio 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
+## Venerdì 12 Febbraio 2021, 16:00
+#### 12 febbraio Lezione e compiti per la prossima settimana
+<a href="https://padlet.com/palma_scuoladb/tred" id="ow1769" __is_owner="true">https://padlet.com/palma_scuoladb/tred</a>  
 ## Venerdì 19 Febbraio 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Fri Feb 12 2021 15:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Feb 12 2021 16:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
