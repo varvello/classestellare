@@ -8,13 +8,9 @@ image: "/uploads/boy.jpg"
 # Cosa si fa e Cosa si porta
 ## Venerdì 12 Febbraio 2021, 10:30
 #### Italiano
-Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
+Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 ## Venerdì 19 Febbraio 2021, 10:30
 #### Italiano
-Libro discipline, Letture, quaderno, fogli, se possibile vocabolario  
-  
-Ecco il link per il nuovo Padlet  
-https://padlet.com/luciano_calaresu/hs2v9n9uz9qys65e  
-La password è sul diario  
+Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Fri Feb 12 2021 10:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Feb 12 2021 11:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
