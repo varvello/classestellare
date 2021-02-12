@@ -17,4 +17,4 @@ Ecco il link per il nuovo Padlet
 https://padlet.com/luciano_calaresu/hs2v9n9uz9qys65e  
 La password è sul diario  
 
-_Fri Feb 12 2021 05:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Feb 12 2021 06:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
