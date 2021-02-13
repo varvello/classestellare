@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Venerdì 12 Febbraio 2021, 16:00
-#### 12 febbraio Lezione e compiti per la prossima settimana
-<a href="https://padlet.com/palma_scuoladb/tred" id="ow1769" __is_owner="true">https://padlet.com/palma_scuoladb/tred</a>  
 ## Venerdì 19 Febbraio 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
@@ -18,4 +15,4 @@ https://padlet.com/luciano_calaresu/hs2v9n9uz9qys65e
   
 la password sul diario.  
 
-_Sat Feb 13 2021 17:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Feb 13 2021 18:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
