@@ -20,4 +20,4 @@ https://padlet.com/luciano_calaresu/hs2v9n9uz9qys65e
   
 la password sul diario.  
 
-_Sun Feb 14 2021 05:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sun Feb 14 2021 06:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
