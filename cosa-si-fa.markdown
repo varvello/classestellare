@@ -19,5 +19,8 @@ Esercizi e attività sul padlet:
 https://padlet.com/luciano_calaresu/hs2v9n9uz9qys65e  
   
 la password sul diario.  
+## Lunedì 22 Febbraio 2021, 10:30
+#### Storia
+Libro discipline, quaderno  
 
-_Sun Feb 14 2021 09:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sun Feb 14 2021 10:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
