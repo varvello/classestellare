@@ -22,5 +22,8 @@ la password sul diario.
 ## Lunedì 22 Febbraio 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
+## Martedì 23 Febbraio 2021, 11:30
+#### Motoria
+Scarpe da ginnastica indossate, abbigliamento comodo  
 
-_Mon Feb 15 2021 10:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Feb 15 2021 11:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
