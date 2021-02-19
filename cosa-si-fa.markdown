@@ -22,7 +22,7 @@ la password sul diario.
 Per gli assenti di oggi:  
 1) caricare sul Padlet il lavoro sulla favola.  
 2) Sul quaderno fare l'analisi dei seguenti nomi seguendo le categorie a pag 101 di Percorsi: antipatia, elefantino, Giulio, Idraulico, Fuffi, artigianato, monti, monellaccio, spazzacamino, flotta  
-3) fare la scheda qui allegata e incollarlo sul quaderno. Nella filastrocca oltre ammettere gli accenti si dovrà sottolineare di rosso gli aggettivi e di blu gli articoli indeterminativi  
+3) fare la scheda qui allegata e incollarla sul quaderno. Nella filastrocca oltre a mettere gli accenti si dovrà sottolineare di rosso gli aggettivi e di blu gli articoli indeterminativi  
 ## Lunedì 22 Febbraio 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
@@ -51,4 +51,4 @@ Libro DIscipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Fri Feb 19 2021 12:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Feb 19 2021 13:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
