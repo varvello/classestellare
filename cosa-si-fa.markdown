@@ -23,6 +23,9 @@ Per gli assenti di oggi:
 1) caricare sul Padlet il lavoro sulla favola.  
 2) Sul quaderno fare l'analisi dei seguenti nomi seguendo le categorie a pag 101 di Percorsi: antipatia, elefantino, Giulio, Idraulico, Fuffi, artigianato, monti, monellaccio, spazzacamino, flotta  
 3) fare la scheda qui allegata e incollarla sul quaderno. Nella filastrocca oltre a mettere gli accenti si dovrà sottolineare di rosso gli aggettivi e di blu gli articoli indeterminativi  
+## Venerdì 19 Febbraio 2021, 17:30
+#### 19 febbraio lezioni e compiti
+<a href="https://padlet.com/palma_scuoladb/tred" id="ow1420" __is_owner="true">https://padlet.com/palma_scuoladb/tred</a>  
 ## Lunedì 22 Febbraio 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
@@ -51,4 +54,4 @@ Libro DIscipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Fri Feb 19 2021 16:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Feb 19 2021 17:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
