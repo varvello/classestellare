@@ -51,4 +51,4 @@ Libro DIscipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Fri Feb 19 2021 14:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Feb 19 2021 15:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
