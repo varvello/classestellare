@@ -6,6 +6,11 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
+<span style="color:#2B65CF">__Ultimi Padlets__</span> 
+
+<sup>__Venerdì 19 Febbraio 2021, 17:30__ - 19 febbraio lezioni e compiti
+<a href="https://padlet.com/palma_scuoladb/tred" id="ow1420" __is_owner="true">https://padlet.com/palma_scuoladb/tred</a>  </sup>
+
 ## Lunedì 22 Febbraio 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
@@ -34,4 +39,4 @@ Libro DIscipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Sat Feb 20 2021 23:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sun Feb 21 2021 00:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
