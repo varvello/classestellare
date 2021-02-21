@@ -38,5 +38,8 @@ Libro DIscipline
 ## Venerdì 26 Febbraio 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
+## Lunedì 1 Marzo 2021, 10:30
+#### Storia
+Libro discipline, quaderno  
 
-_Sun Feb 21 2021 09:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sun Feb 21 2021 10:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
