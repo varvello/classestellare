@@ -18,6 +18,9 @@ Verifica: studiare bene pag 28, 29, 30.
   
   
 Oggi fatto: pag. 34, 35, 36 e 37 ricopiare schema allegato  
+## Lunedì 22 Febbraio 2021, 16:00
+#### Lezione di oggi
+<a href="https://padlet.com/palma_scuoladb/tred" id="ow1154" __is_owner="true">https://padlet.com/palma_scuoladb/tred</a>  
 ## Martedì 23 Febbraio 2021, 11:30
 #### Motoria
 Scarpe da ginnastica indossate, abbigliamento comodo  
@@ -54,4 +57,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Mindfluness
   
 
-_Mon Feb 22 2021 15:47:34 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Feb 22 2021 16:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
