@@ -15,6 +15,9 @@ image: "/uploads/boy.jpg"
 #### Storia
 Libro discipline, quaderno  
 Verifica: studiare bene pag 28, 29, 30.  
+  
+  
+Oggi fatto: pag. 34, 35, 36 e 37 ricopiare schema allegato  
 ## Martedì 23 Febbraio 2021, 11:30
 #### Motoria
 Scarpe da ginnastica indossate, abbigliamento comodo  
@@ -47,5 +50,8 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Martedì 2 Marzo 2021, 12:00
 #### Mensa e intervallo
   
+## Martedì 2 Marzo 2021, 13:30
+#### Mindfluness
+  
 
-_Mon Feb 22 2021 12:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Feb 22 2021 13:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
