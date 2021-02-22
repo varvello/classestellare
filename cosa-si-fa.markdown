@@ -41,5 +41,8 @@ Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario
 ## Lunedì 1 Marzo 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
+## Martedì 2 Marzo 2021, 11:30
+#### Motoria
+Scarpe da ginnastica indossate, abbigliamento comodo  
 
-_Mon Feb 22 2021 10:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Feb 22 2021 11:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
