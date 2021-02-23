@@ -56,5 +56,8 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Martedì 2 Marzo 2021, 13:30
 #### Mindfluness
   
+## Mercoledì 3 Marzo 2021, 08:30
+#### Italiano
+Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
 
-_Tue Feb 23 2021 07:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Feb 23 2021 08:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
