@@ -32,8 +32,8 @@ Verfica: la favola, nomi, articoli e aggettivi
 Compiti: Percorsi pag 40,41, 42, 43  
 Esercizio sul quaderno: fai l'analisi dei seguenti nomi seguendo le categorie di pag 101 di Percorsi: castellano, stormo, virtù, monarca, fioriera, girotondo.  
 ## Mercoledì 24 Febbraio 2021, 14:00
-#### Arte
-Libro DIscipline  
+#### Arte e immagine
+Cartellina, fogli da disegno, colla, forbici, matite e pastelli  
 ## Venerdì 26 Febbraio 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
@@ -54,6 +54,6 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
 ## Mercoledì 3 Marzo 2021, 14:00
 #### Geografia
-Cartellina, fogli da disegno, colla, forbici, matite e pastelli  
+Discipline  
 
-_Tue Feb 23 2021 15:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Feb 23 2021 16:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
