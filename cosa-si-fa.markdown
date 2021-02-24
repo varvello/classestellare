@@ -14,9 +14,6 @@ image: "/uploads/boy.jpg"
 <sup>__Lunedì 22 Febbraio 2021, 16:00__ - Lezione di oggi
 <a href="https://padlet.com/palma_scuoladb/tred" id="ow1154" __is_owner="true">https://padlet.com/palma_scuoladb/tred</a>  </sup>
 
-## Martedì 23 Febbraio 2021, 12:00
-#### Mensa e intervallo
-  
 ## Martedì 23 Febbraio 2021, 13:30
 #### Mindfluness
   
@@ -53,4 +50,4 @@ Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe
 #### Geografia
 Discipline  
 
-_Wed Feb 24 2021 12:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Feb 24 2021 13:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
