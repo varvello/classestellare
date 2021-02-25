@@ -14,9 +14,6 @@ image: "/uploads/boy.jpg"
 <sup>__Lunedì 22 Febbraio 2021, 16:00__ - Lezione di oggi
 <a href="https://padlet.com/palma_scuoladb/tred" id="ow1154" __is_owner="true">https://padlet.com/palma_scuoladb/tred</a>  </sup>
 
-## Mercoledì 24 Febbraio 2021, 14:00
-#### Arte e immagine
-Cartellina, fogli da disegno, colla, forbici, matite e pastelli  
 ## Venerdì 26 Febbraio 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
@@ -42,4 +39,4 @@ Discipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Feb 25 2021 15:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Feb 25 2021 16:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
