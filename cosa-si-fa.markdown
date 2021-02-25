@@ -46,5 +46,8 @@ Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe
 ## Mercoledì 3 Marzo 2021, 14:00
 #### Geografia
 Discipline  
+## Venerdì 5 Marzo 2021, 10:30
+#### Italiano
+Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Feb 25 2021 08:47:34 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Feb 25 2021 10:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
