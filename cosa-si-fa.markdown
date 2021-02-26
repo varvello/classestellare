@@ -32,6 +32,12 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Mercoledì 3 Marzo 2021, 08:30
 #### Italiano
 Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
+  
+  
+Compiti: Letture pag 133,134, 135,136, 137  
+Percorsi pag 114, 115.  
+  
+Per gli assenti di venerdì 26: pag. 112, 113 di Percorsi e scheda allegata  
 ## Mercoledì 3 Marzo 2021, 14:00
 #### Geografia
 Discipline  
@@ -39,4 +45,4 @@ Discipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Fri Feb 26 2021 11:47:33 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Feb 26 2021 12:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
