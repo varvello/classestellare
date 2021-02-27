@@ -11,9 +11,6 @@ image: "/uploads/boy.jpg"
 <sup>__Lunedì 22 Febbraio 2021, 16:00__ - Lezione di oggi
 <a href="https://padlet.com/palma_scuoladb/tred" id="ow1154" __is_owner="true">https://padlet.com/palma_scuoladb/tred</a>  </sup>
 
-## Venerdì 26 Febbraio 2021, 10:30
-#### Italiano
-Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 ## Lunedì 1 Marzo 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
@@ -42,4 +39,4 @@ Discipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Sat Feb 27 2021 12:47:33 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Feb 27 2021 13:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
