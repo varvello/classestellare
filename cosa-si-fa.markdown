@@ -39,4 +39,4 @@ Discipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Sat Feb 27 2021 16:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Feb 27 2021 17:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
