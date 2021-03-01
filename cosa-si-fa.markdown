@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-<span style="color:#2B65CF">__Ultimi Padlets__</span> 
-
-<sup>__Lunedì 22 Febbraio 2021, 16:00__ - Lezione di oggi
-<a href="https://padlet.com/palma_scuoladb/tred" id="ow1154" __is_owner="true">https://padlet.com/palma_scuoladb/tred</a>  </sup>
-
 ## Lunedì 1 Marzo 2021, 10:30
 #### Storia
 Libro discipline, quaderno.   
@@ -52,4 +47,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Mindfluness
   
 
-_Mon Mar 01 2021 23:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Mar 02 2021 00:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
