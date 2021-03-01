@@ -13,7 +13,8 @@ image: "/uploads/boy.jpg"
 
 ## Lunedì 1 Marzo 2021, 10:30
 #### Storia
-Libro discipline, quaderno  
+Libro discipline, quaderno.   
+Per gli assenti: Discipline pag 155, 156, 157, 158. Leggere pag. 38,39,40.  
 ## Martedì 2 Marzo 2021, 11:30
 #### Motoria
 Scarpe da ginnastica indossate, abbigliamento comodo  
@@ -51,4 +52,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Mindfluness
   
 
-_Mon Mar 01 2021 13:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Mar 01 2021 14:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
