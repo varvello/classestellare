@@ -49,4 +49,4 @@ Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe
 #### Arte e immagine
 Cartellina, fogli da disegno, colla, forbici, matite e pastelli  
 
-_Tue Mar 02 2021 19:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Mar 02 2021 20:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
