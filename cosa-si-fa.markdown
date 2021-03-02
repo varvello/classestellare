@@ -45,8 +45,10 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Mercoledì 10 Marzo 2021, 08:30
 #### Italiano
 Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
+  
+Compiti: Percrosi pag..44 e 45, 70,71, 72., 116 e 117  
 ## Mercoledì 10 Marzo 2021, 14:00
 #### Arte e immagine
 Cartellina, fogli da disegno, colla, forbici, matite e pastelli  
 
-_Tue Mar 02 2021 21:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Mar 02 2021 22:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
