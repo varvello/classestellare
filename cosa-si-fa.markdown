@@ -6,10 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 1 Marzo 2021, 10:30
-#### Storia
-Libro discipline, quaderno.   
-Per gli assenti: Discipline pag 155, 156, 157, 158. Leggere pag. 38,39,40.  
 ## Martedì 2 Marzo 2021, 11:30
 #### Motoria
 Scarpe da ginnastica indossate, abbigliamento comodo  
@@ -50,4 +46,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Italiano
 Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
 
-_Tue Mar 02 2021 12:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Mar 02 2021 13:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
