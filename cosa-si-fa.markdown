@@ -24,6 +24,8 @@ Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario
 ## Lunedì 8 Marzo 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
+  
+Verfica di geografia da pag 96 a pag 109.  
 ## Martedì 9 Marzo 2021, 11:30
 #### Motoria
 Scarpe da ginnastica indossate, abbigliamento comodo  
@@ -42,4 +44,4 @@ Compiti: Percrosi pag..44 e 45, 70,71, 72., 116 e 117
 #### Arte e immagine
 Cartellina, fogli da disegno, colla, forbici, matite e pastelli  
 
-_Wed Mar 03 2021 15:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Mar 03 2021 16:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
