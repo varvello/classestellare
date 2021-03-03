@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 2 Marzo 2021, 11:30
-#### Motoria
-Scarpe da ginnastica indossate, abbigliamento comodo  
 ## Martedì 2 Marzo 2021, 12:00
 #### Mensa e intervallo
   
@@ -51,4 +48,4 @@ Compiti: Percrosi pag..44 e 45, 70,71, 72., 116 e 117
 #### Arte e immagine
 Cartellina, fogli da disegno, colla, forbici, matite e pastelli  
 
-_Wed Mar 03 2021 11:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Mar 03 2021 12:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
