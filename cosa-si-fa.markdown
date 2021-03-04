@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 3 Marzo 2021, 14:00
-#### Geografia
-Discipline  
 ## Venerdì 5 Marzo 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
@@ -38,4 +35,4 @@ Cartellina, fogli da disegno, colla, forbici, matite e pastelli
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Mar 04 2021 15:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Mar 04 2021 16:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
