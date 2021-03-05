@@ -35,4 +35,4 @@ Cartellina, fogli da disegno, colla, forbici, matite e pastelli
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Mar 04 2021 23:51:17 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Mar 05 2021 01:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
