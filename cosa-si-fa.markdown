@@ -9,6 +9,9 @@ image: "/uploads/boy.jpg"
 ## Venerdì 5 Marzo 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
+  
+  
+Oggi: verbi, coniugazioni, pronomi e tempo indicativo si vedano i compiti per mercoledì prossimo  
 ## Lunedì 8 Marzo 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
@@ -35,4 +38,4 @@ Cartellina, fogli da disegno, colla, forbici, matite e pastelli
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Fri Mar 05 2021 16:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Mar 05 2021 17:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
