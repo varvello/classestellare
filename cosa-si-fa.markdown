@@ -27,7 +27,7 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Italiano
 Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
   
-Compiti: Percrosi pag..44 e 45, 70,71, 72., 116 e 117  
+Compiti: Percrosi pag..44 e 45, 70,71, 72., 116, 117, 118, 119 e 120  
 ## Mercoledì 10 Marzo 2021, 14:00
 #### Arte e immagine
 Cartellina, fogli da disegno, colla, forbici, matite e pastelli  
@@ -35,4 +35,4 @@ Cartellina, fogli da disegno, colla, forbici, matite e pastelli
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Fri Mar 05 2021 11:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Mar 05 2021 12:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
