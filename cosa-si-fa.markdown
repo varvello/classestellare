@@ -41,5 +41,10 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Mercoledì 17 Marzo 2021, 08:30
 #### Italiano
 Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
+## Mercoledì 17 Marzo 2021, 14:00
+#### Geografia
+Discipline  
+  
+COMPITI es pag 113, 196, 197 e 114  
 
-_Tue Mar 09 2021 13:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Mar 09 2021 15:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
