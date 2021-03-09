@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 8 Marzo 2021, 10:30
-#### Storia
-Libro discipline, quaderno  
-  
-Verfica di geografia da pag 96 a pag 109.  
 ## Martedì 9 Marzo 2021, 11:30
 #### Motoria
 Scarpe da ginnastica indossate, abbigliamento comodo  
@@ -47,4 +42,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Italiano
 Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
 
-_Tue Mar 09 2021 12:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Tue Mar 09 2021 13:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
