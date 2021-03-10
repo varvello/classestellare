@@ -6,12 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 9 Marzo 2021, 12:00
-#### Mensa e intervallo
-  
-## Martedì 9 Marzo 2021, 13:30
-#### Mindfluness
-  
 ## Mercoledì 10 Marzo 2021, 08:30
 #### Italiano
 Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
@@ -48,4 +42,4 @@ Discipline
   
 COMPITI es pag 113, 196, 197 e 114  
 
-_Wed Mar 10 2021 12:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Mar 10 2021 14:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
