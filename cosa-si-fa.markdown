@@ -6,9 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 9 Marzo 2021, 11:30
-#### Motoria
-Scarpe da ginnastica indossate, abbigliamento comodo  
 ## Martedì 9 Marzo 2021, 12:00
 #### Mensa e intervallo
   
@@ -51,4 +48,4 @@ Discipline
   
 COMPITI es pag 113, 196, 197 e 114  
 
-_Wed Mar 10 2021 11:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Mar 10 2021 12:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
