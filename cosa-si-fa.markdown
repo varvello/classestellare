@@ -6,12 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 10 Marzo 2021, 14:00
-#### Arte e immagine
-Cartellina, fogli da disegno, colla, forbici, matite e pastelli  
-  
-oggi: il fumetto vedi allegati.  
-Visione video su Frida Kahlo. Esercitazione vedi allegato. Gli assenti copiano solo il fumetto e vedano il video https://www.youtube.com/watch?v=tdMDzbyKSc0  
 ## Venerdì 12 Marzo 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
@@ -41,4 +35,4 @@ COMPITI es pag 113, 196, 197 e 114
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Mar 11 2021 15:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Mar 11 2021 16:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
