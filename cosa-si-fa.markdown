@@ -44,5 +44,8 @@ Compiti: Percorsi Pag 121. Studiare a memoria verbo essere modo indicativo pag 1
 Discipline  
   
 COMPITI es pag 113, 196, 197 e 114  
+## Venerdì 19 Marzo 2021, 10:30
+#### Italiano
+Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Mar 11 2021 09:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Mar 11 2021 10:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
