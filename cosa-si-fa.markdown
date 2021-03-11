@@ -6,13 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 10 Marzo 2021, 08:30
-#### Italiano
-Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
-  
-Compiti: Percrosi pag..44 e 45, 70,71, 72., 116, 117, 118, 119 e 120  
-  
-Lezione di oggi: ascolto e comprensione 1 capitolo La storia Infinta. Correzioni compiti. L'analisi del verbo pag 120. Indicativo verbo essere pag 141. I pronomi personali. Scheda  
 ## Mercoledì 10 Marzo 2021, 14:00
 #### Arte e immagine
 Cartellina, fogli da disegno, colla, forbici, matite e pastelli  
@@ -48,4 +41,4 @@ COMPITI es pag 113, 196, 197 e 114
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Mar 11 2021 10:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Mar 11 2021 11:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
