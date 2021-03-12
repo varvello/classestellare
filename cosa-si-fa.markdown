@@ -9,6 +9,8 @@ image: "/uploads/boy.jpg"
 ## Venerdì 12 Marzo 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
+  
+Lezione di oggi: ascolto e comprensione 'la storia Infinta ' fine 1 capitolo inizio secondo. Assegnazione e spiegazione compiti ( vedi 17/ 3). Esercitazioni e giochi orali sui verbi e uso vocabolario.  
 ## Lunedì 15 Marzo 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
@@ -25,7 +27,7 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Italiano
 Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe  
   
-Compiti: Percorsi Pag 48, 49, 121,184 e185. Studiare a memoria verbo essere modo indicativo pag 141  
+Compiti: Percorsi Pag 46, 47, 121,184 e185. Studiare a memoria verbo essere modo indicativo pag 141. Fare scheda sul quaderno ha/a  
 ## Mercoledì 17 Marzo 2021, 14:00
 #### Geografia
 Discipline  
@@ -35,4 +37,4 @@ COMPITI es pag 113, 196, 197 e 114
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Fri Mar 12 2021 16:47:34 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Mar 12 2021 17:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
