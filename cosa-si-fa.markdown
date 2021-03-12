@@ -35,4 +35,4 @@ COMPITI es pag 113, 196, 197 e 114
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Fri Mar 12 2021 11:47:34 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Mar 12 2021 12:47:43 GMT+0100 (Ora standard dell’Europa centrale)_
