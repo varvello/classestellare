@@ -6,11 +6,6 @@ image: "/uploads/boy.jpg"
 ---
 
 # Cosa si fa e Cosa si porta
-## Venerdì 12 Marzo 2021, 10:30
-#### Italiano
-Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
-  
-Lezione di oggi: ascolto e comprensione 'la storia Infinta ' fine 1 capitolo inizio secondo. Assegnazione e spiegazione compiti ( vedi 17/ 3). Esercitazioni e giochi orali sui verbi e uso vocabolario.  
 ## Lunedì 15 Marzo 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
@@ -37,4 +32,4 @@ COMPITI es pag 113, 196, 197 e 114
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Sat Mar 13 2021 12:47:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Mar 13 2021 13:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
