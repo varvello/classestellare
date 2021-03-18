@@ -7,4 +7,4 @@ image: "/uploads/boy.jpg"
 
 # Cosa si fa e Cosa si porta
 
-_Thu Mar 18 2021 17:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
+_Thu Mar 18 2021 19:47:31 GMT+0100 (Ora standard dell’Europa centrale)_
