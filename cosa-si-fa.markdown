@@ -15,7 +15,7 @@ Studiare a memoria verbo avere pag. 141 Percorsi
 Esercizi pag. 142, 143, 144 Percorsi  
 Copiare schema di pag. 140 di Letture sul quaderno e svolgere esercizio pag.141 https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MzAwOTA3MDY5NTAw/details  
 ## Martedì 23 Marzo 2021, 09:00
-#### Italiano
+#### Italiano 
   
 ## Martedì 23 Marzo 2021, 09:59
 #### Compito: Esercitiamoci con l'indicativo dei verbi (trova la corrispondenza)
