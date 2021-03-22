@@ -5,7 +5,7 @@ permalink: "/cosa-si-fa"
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 22 Marzo 2021, 10:45
+## Lunedì 22 Marzo 2021, 10:45 
 #### Storia
   
 ## Martedì 23 Marzo 2021, 08:59
@@ -39,4 +39,4 @@ Controlla di aver fatto tutte le pagine da pag 156 ed eventualmente completa que
 #### Italiano
   
 
-_Mon Mar 22 2021 21:42:34 GMT+0100 (Central European Standard Time)_
+_Mon Mar 22 2021 21:30:26 GMT+0100 (Central European Standard Time)_
