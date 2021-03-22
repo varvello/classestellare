@@ -5,7 +5,7 @@ permalink: "/cosa-si-fa"
 image: "/uploads/boy.jpg"
 ---
 
-# Cosa si fa e Cosa si porta, test
+# Cosa si fa e Cosa si porta
 ## Lunedì 22 Marzo 2021, 10:45
 #### Storia
   
@@ -15,7 +15,7 @@ Studiare a memoria verbo avere pag. 141 Percorsi
 Esercizi pag. 142, 143, 144 Percorsi  
 Copiare schema di pag. 140 di Letture sul quaderno e svolgere esercizio pag.141 https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MzAwOTA3MDY5NTAw/details  
 ## Martedì 23 Marzo 2021, 09:00
-#### Italiano 
+#### Italiano
   
 ## Martedì 23 Marzo 2021, 09:59
 #### Compito: Esercitiamoci con l'indicativo dei verbi (trova la corrispondenza)
@@ -40,4 +40,4 @@ Controlla di aver fatto tutte le pagine da pag 156 ed eventualmente completa que
 #### Italiano
   
 
-_Mon Mar 22 2021 19:01:22 GMT+0100 (Central European Standard Time)_
+_Mon Mar 22 2021 20:27:32 GMT+0100 (Ora standard dell’Europa centrale)_
