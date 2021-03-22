@@ -8,13 +8,6 @@ FizzBuzz:
 - fizz
 ---
 
----
-title: Cosa si fa e cosa si porta
-date: 2020-10-24 09:08:00 +02:00
-permalink: "/cosa-si-fa"
-image: "/uploads/boy.jpg"
----
-
 # Cosa si fa e Cosa si porta
 ## Lunedì 22 Marzo 2021, 10:45
 #### Storia
@@ -50,4 +43,4 @@ Controlla di aver fatto tutte le pagine da pag 156 ed eventualmente completa que
 #### Italiano
   
 
-_Mon Mar 22 2021 20:27:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Mon Mar 22 2021 21:27:32 GMT+0100 (Ora standard dell’Europa centrale)_
