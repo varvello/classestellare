@@ -15,7 +15,7 @@ layout: default
 #### Compito: Compiti per martedì 23
 Studiare a memoria verbo avere pag. 141 Percorsi  
 Esercizi pag. 142, 143, 144 Percorsi  
-Copiare schema di pag. 140 di Letture sul quaderno e svolgere esercizio pag.141 https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MzAwOTA3MDY5NTAw/details  
+Copiare schema di pag. 140 di Letture sul quaderno e svolgere esercizio pag.141 [https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MzAwOTA3MDY5NTAw/details]  
 ## Martedì 23 Marzo 2021, 09:00
 #### Italiano
   
