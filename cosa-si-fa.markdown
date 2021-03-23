@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 22 Marzo 2021, 10:45
-#### Storia
-  
 ## Martedì 23 Marzo 2021, 08:59
 #### Compito: Compiti per martedì 23
 Studiare a memoria verbo avere pag. 141 Percorsi  
@@ -45,4 +42,4 @@ Controlla di aver fatto tutte le pagine da pag 156 ed eventualmente completa que
 #### Geografia
   
 
-_Tue Mar 23 2021 11:34:54 GMT+0100 (Central European Standard Time)_
+_Tue Mar 23 2021 12:27:32 GMT+0100 (Ora standard dell’Europa centrale)_
