@@ -8,17 +8,9 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 23 Marzo 2021, 08:59
-#### Compito: Compiti per martedì 23
-Studiare a memoria verbo avere pag. 141 Percorsi  
-Esercizi pag. 142, 143, 144 Percorsi  
-Copiare schema di pag. 140 di Letture sul quaderno e svolgere esercizio pag.141 <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MzAwOTA3MDY5NTAw/details>  
 ## Martedì 23 Marzo 2021, 09:00
 #### Italiano
   
-## Martedì 23 Marzo 2021, 09:59
-#### Compito: Esercitiamoci con l'indicativo dei verbi (trova la corrispondenza)
-<https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MzAwNjk4NDQ4MzI1/details>  
 ## Mercoledì 24 Marzo 2021, 10:45
 #### Arte e immagine
   
@@ -42,4 +34,4 @@ Controlla di aver fatto tutte le pagine da pag 156 ed eventualmente completa que
 #### Geografia
   
 
-_Wed Mar 24 2021 08:27:33 GMT+0100 (Ora standard dell’Europa centrale)_
+_Wed Mar 24 2021 10:27:32 GMT+0100 (Ora standard dell’Europa centrale)_
