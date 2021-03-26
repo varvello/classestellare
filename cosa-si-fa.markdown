@@ -15,6 +15,9 @@ layout: default
 #### Italiano
   
 ## Lunedì 29 Marzo 2021, 02:00
+#### Assignment: Analisi grammaticale
+svolgete gli esercizi on line senza caricare nulla qui: vedrò i risultati su wordwall <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwOTAwNzg5OTA4/details>  
+## Lunedì 29 Marzo 2021, 02:00
 #### Compito: Compiti di storia
 Studia pag. 46,47, 48 e ripassa il capitolo del Paleolitico. Fai i laboratorio il laboratorio di pag 162 e pag 163.  
 Controlla di aver fatto tutte le pagine da pag 156 ed eventualmente completa quella non fatte. <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwNTczMzExOTc3/details>  
@@ -46,4 +49,4 @@ Luciano <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwODM4NzI0NzEw/deta
 #### Geografia
   
 
-_Fri Mar 26 2021 06:27:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Mar 26 2021 07:27:32 GMT+0100 (Ora standard dell’Europa centrale)_
