@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Giovedì 25 Marzo 2021, 10:45
-#### Italiano
-  
 ## Venerdì 26 Marzo 2021, 10:45
 #### Italiano
   
@@ -49,4 +46,4 @@ Luciano <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwODM4NzI0NzEw/deta
 #### Geografia
   
 
-_Fri Mar 26 2021 11:27:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Fri Mar 26 2021 12:27:32 GMT+0100 (Ora standard dell’Europa centrale)_
