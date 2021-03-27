@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Venerdì 26 Marzo 2021, 10:45
-#### Italiano
-  
 ## Lunedì 29 Marzo 2021, 02:00
 #### Assignment: Analisi grammaticale
 svolgete gli esercizi on line senza caricare nulla qui: vedrò i risultati su wordwall <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwOTAwNzg5OTA4/details>  
@@ -46,4 +43,4 @@ Luciano <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwODM4NzI0NzEw/deta
 #### Geografia
   
 
-_Sat Mar 27 2021 11:27:32 GMT+0100 (Ora standard dell’Europa centrale)_
+_Sat Mar 27 2021 12:27:33 GMT+0100 (Ora standard dell’Europa centrale)_
