@@ -15,9 +15,6 @@ svolgete gli esercizi on line senza caricare nulla qui: vedrò i risultati su wo
 #### Compito: Compiti di storia
 Studia pag. 46,47, 48 e ripassa il capitolo del Paleolitico. Fai i laboratorio il laboratorio di pag 162 e pag 163.  
 Controlla di aver fatto tutte le pagine da pag 156 ed eventualmente completa quella non fatte. <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwNTczMzExOTc3/details>  
-## Lunedì 29 Marzo 2021, 10:45
-#### Storia
-  
 ## Martedì 30 Marzo 2021, 02:00
 #### Compito: Dantedì
 Sul quaderno trascrivete e completate il testo qui sotto riportato.  
@@ -46,4 +43,4 @@ Luciano <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwODM4NzI0NzEw/deta
 #### Italiano
 <span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
 
-_Tue Mar 30 2021 11:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Tue Mar 30 2021 12:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
