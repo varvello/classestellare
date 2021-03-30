@@ -18,7 +18,7 @@ Controlla di aver fatto tutte le pagine da pag 156 ed eventualmente completa que
 ## Lunedì 29 Marzo 2021, 10:45
 #### Storia
   
-## Martedì 30 Marzo 2021, 08:59
+## Martedì 30 Marzo 2021, 02:00
 #### Compito: Dantedì
 Sul quaderno trascrivete e completate il testo qui sotto riportato.  
 Dopo aver svolto il compito caricatelo su classroom.   
@@ -42,5 +42,8 @@ Luciano <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwODM4NzI0NzEw/deta
 ## Mercoledì 31 Marzo 2021, 10:45
 #### Geografia
   
+## Mercoledì 7 Aprile 2021, 08:30
+#### Italiano
+<span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
 
-_Tue Mar 30 2021 08:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Tue Mar 30 2021 10:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
