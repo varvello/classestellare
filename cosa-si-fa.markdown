@@ -42,5 +42,8 @@ Luciano <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwODM4NzI0NzEw/deta
 ## Mercoledì 7 Aprile 2021, 08:30
 #### Italiano
 <span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
+## Mercoledì 7 Aprile 2021, 14:00
+#### Arte e immagine
+Cartellina, fogli da disegno, matite colorate e pennarelli.  
 
-_Tue Mar 30 2021 13:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Tue Mar 30 2021 14:27:34 GMT+0200 (Ora legale dell’Europa centrale)_
