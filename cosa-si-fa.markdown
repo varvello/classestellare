@@ -46,4 +46,4 @@ Luciano <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwODM4NzI0NzEw/deta
 #### Italiano
 <span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
 
-_Tue Mar 30 2021 10:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Tue Mar 30 2021 11:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
