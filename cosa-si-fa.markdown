@@ -29,6 +29,9 @@ Luciano <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwODM4NzI0NzEw/deta
 ## Mercoledì 31 Marzo 2021, 10:45
 #### Geografia
   
+## Mercoledì 7 Aprile 2021, 02:00
+#### Compito: Compiti delle vacanze
+in allegato i compiti per le vacanze: non è necessario caricare nulla su classroom <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MzExNjg2ODg1MzMw/details>  
 ## Mercoledì 7 Aprile 2021, 08:30
 #### Italiano
 <span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
@@ -36,4 +39,4 @@ Luciano <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwODM4NzI0NzEw/deta
 #### Arte e immagine
 Cartellina, fogli da disegno, matite colorate e pennarelli.  
 
-_Wed Mar 31 2021 15:27:39 GMT+0200 (Ora legale dell’Europa centrale)_
+_Wed Mar 31 2021 16:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
