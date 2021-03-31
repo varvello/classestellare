@@ -26,9 +26,6 @@ Tra tutte le cose trattate, la cosa che mi ha colpito di più è stata _________
 Mi raccomando al fondo della pagina fate un disegno    
 Buon lavoro  
 Luciano <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwODM4NzI0NzEw/details>  
-## Martedì 30 Marzo 2021, 09:00
-#### Italiano
-  
 ## Mercoledì 31 Marzo 2021, 10:45
 #### Geografia
   
@@ -39,4 +36,4 @@ Luciano <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwODM4NzI0NzEw/deta
 #### Arte e immagine
 Cartellina, fogli da disegno, matite colorate e pennarelli.  
 
-_Wed Mar 31 2021 10:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Wed Mar 31 2021 11:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
