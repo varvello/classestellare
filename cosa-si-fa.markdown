@@ -8,13 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 29 Marzo 2021, 02:00
-#### Assignment: Analisi grammaticale
-svolgete gli esercizi on line senza caricare nulla qui: vedrò i risultati su wordwall <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwOTAwNzg5OTA4/details>  
-## Lunedì 29 Marzo 2021, 02:00
-#### Compito: Compiti di storia
-Studia pag. 46,47, 48 e ripassa il capitolo del Paleolitico. Fai i laboratorio il laboratorio di pag 162 e pag 163.  
-Controlla di aver fatto tutte le pagine da pag 156 ed eventualmente completa quella non fatte. <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwNTczMzExOTc3/details>  
 ## Martedì 30 Marzo 2021, 02:00
 #### Compito: Dantedì
 Sul quaderno trascrivete e completate il testo qui sotto riportato.  
@@ -46,4 +39,4 @@ Luciano <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MjgwODM4NzI0NzEw/deta
 #### Arte e immagine
 Cartellina, fogli da disegno, matite colorate e pennarelli.  
 
-_Wed Mar 31 2021 01:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Wed Mar 31 2021 02:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
