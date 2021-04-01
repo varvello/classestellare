@@ -21,4 +21,4 @@ Cartellina, fogli da disegno, matite colorate e pennarelli.
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Apr 01 2021 21:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu Apr 01 2021 22:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
