@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 31 Marzo 2021, 10:45
-#### Geografia
-  
 ## Mercoledì 7 Aprile 2021, 02:00
 #### Compito: Compiti delle vacanze
 in allegato i compiti per le vacanze: non è necessario caricare nulla su classroom <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MzExNjg2ODg1MzMw/details>  
@@ -24,4 +21,4 @@ Cartellina, fogli da disegno, matite colorate e pennarelli.
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Apr 01 2021 11:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu Apr 01 2021 12:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
