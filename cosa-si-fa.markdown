@@ -21,4 +21,4 @@ in allegato i compiti per le vacanze: non è necessario caricare nulla su classr
 #### Arte e immagine
 Cartellina, fogli da disegno, matite colorate e pennarelli.  
 
-_Thu Apr 01 2021 06:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu Apr 01 2021 07:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
