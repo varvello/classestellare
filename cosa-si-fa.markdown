@@ -20,5 +20,8 @@ Cartellina, fogli da disegno, matite colorate e pennarelli.
 ## Venerdì 9 Aprile 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
+## Sabato 10 Aprile 2021, 02:00
+#### Compito: Caricamento compiti per le vacanze di Pasqua.
+Se volete, potete caricare qui i compiti assegnati per le vacanze. Il caricamento è facoltativo, gli esercizi sono obbligatori. Li correggeremo comunque al rientro. <https://classroom.google.com/c/Mjk4NjQxOTcxOTM1/a/MzEyMTgxOTIxMTIz/details>  
 
-_Fri Apr 02 2021 11:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Fri Apr 02 2021 14:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
