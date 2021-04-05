@@ -26,5 +26,11 @@ Se volete, potete caricare qui i compiti assegnati per le vacanze. Il caricament
 ## Lunedì 12 Aprile 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
+## Martedì 13 Aprile 2021, 11:30
+#### Motoria
+Scarpe da ginnastica indossate, abbigliamento comodo  
+## Martedì 13 Aprile 2021, 12:00
+#### Mensa e intervallo
+  
 
-_Mon Apr 05 2021 11:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Mon Apr 05 2021 12:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
