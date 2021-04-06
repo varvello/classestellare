@@ -38,5 +38,8 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Mercoledì 14 Aprile 2021, 08:30
 #### Italiano
 <span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
+## Mercoledì 14 Aprile 2021, 14:00
+#### Geografia
+Discipline  
 
-_Tue Apr 06 2021 13:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Tue Apr 06 2021 14:27:34 GMT+0200 (Ora legale dell’Europa centrale)_
