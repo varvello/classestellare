@@ -11,9 +11,6 @@ layout: default
 ## Mercoledì 7 Aprile 2021, 02:00
 #### Compito: Compiti delle vacanze
 in allegato i compiti per le vacanze: non è necessario caricare nulla su classroom <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MzExNjg2ODg1MzMw/details>  
-## Mercoledì 7 Aprile 2021, 08:30
-#### Italiano
-<span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
 ## Mercoledì 7 Aprile 2021, 14:00
 #### Arte e immagine
 Cartellina, fogli da disegno, matite colorate e pennarelli.  
@@ -41,5 +38,8 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Mercoledì 14 Aprile 2021, 14:00
 #### Geografia
 Discipline  
+## Venerdì 16 Aprile 2021, 10:30
+#### Italiano
+Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Apr 08 2021 10:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu Apr 08 2021 12:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
