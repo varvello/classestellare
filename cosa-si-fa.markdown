@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 7 Aprile 2021, 02:00
-#### Compito: Compiti delle vacanze
-in allegato i compiti per le vacanze: non è necessario caricare nulla su classroom <https://classroom.google.com/c/Mjg2OTY0OTk1MjUz/a/MzExNjg2ODg1MzMw/details>  
 ## Venerdì 9 Aprile 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
@@ -39,4 +36,4 @@ Discipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Fri Apr 09 2021 01:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Fri Apr 09 2021 02:27:35 GMT+0200 (Ora legale dell’Europa centrale)_
