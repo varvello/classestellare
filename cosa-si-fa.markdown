@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Venerdì 9 Aprile 2021, 10:30
-#### Italiano
-Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 ## Sabato 10 Aprile 2021, 02:00
 #### Compito: Caricamento compiti per le vacanze di Pasqua.
 Se volete, potete caricare qui i compiti assegnati per le vacanze. Il caricamento è facoltativo, gli esercizi sono obbligatori. Li correggeremo comunque al rientro. <https://classroom.google.com/c/Mjk4NjQxOTcxOTM1/a/MzEyMTgxOTIxMTIz/details>  
@@ -36,4 +33,4 @@ Discipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Sat Apr 10 2021 12:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Sat Apr 10 2021 13:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
