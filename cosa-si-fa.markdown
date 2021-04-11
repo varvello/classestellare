@@ -32,5 +32,8 @@ Discipline
 ## Venerdì 16 Aprile 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
+## Lunedì 19 Aprile 2021, 10:30
+#### Storia
+Libro discipline, quaderno  
 
-_Sun Apr 11 2021 09:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Sun Apr 11 2021 11:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
