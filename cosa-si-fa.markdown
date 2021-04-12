@@ -32,5 +32,11 @@ Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario
 ## Lunedì 19 Aprile 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
+## Martedì 20 Aprile 2021, 11:30
+#### Motoria
+Scarpe da ginnastica indossate, abbigliamento comodo  
+## Martedì 20 Aprile 2021, 12:00
+#### Mensa e intervallo
+  
 
-_Mon Apr 12 2021 11:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Mon Apr 12 2021 12:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
