@@ -8,15 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 13 Aprile 2021, 11:30
-#### Motoria
-Scarpe da ginnastica indossate, abbigliamento comodo  
-## Martedì 13 Aprile 2021, 12:00
-#### Mensa e intervallo
-  
-## Martedì 13 Aprile 2021, 13:30
-#### Mindfluness
-  
 ## Mercoledì 14 Aprile 2021, 08:30
 #### Italiano
 <span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
@@ -45,4 +36,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Arte e immagine
 Cartellina, fogli da disegno, matite colorate e pennarelli.  
 
-_Wed Apr 14 2021 10:27:40 GMT+0200 (Ora legale dell’Europa centrale)_
+_Wed Apr 14 2021 15:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
