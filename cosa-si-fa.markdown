@@ -36,4 +36,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Arte e immagine
 Cartellina, fogli da disegno, matite colorate e pennarelli.  
 
-_Thu Apr 15 2021 01:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu Apr 15 2021 02:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
