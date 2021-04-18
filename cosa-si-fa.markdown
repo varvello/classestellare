@@ -29,5 +29,8 @@ Cartellina, fogli da disegno, matite colorate e pennarelli.
 ## Venerdì 23 Aprile 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
+## Lunedì 26 Aprile 2021, 10:30
+#### Storia
+Libro discipline, quaderno  
 
-_Sun Apr 18 2021 10:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Sun Apr 18 2021 12:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
