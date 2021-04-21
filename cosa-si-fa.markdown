@@ -8,12 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 20 Aprile 2021, 12:00
-#### Mensa e intervallo
-  
-## Martedì 20 Aprile 2021, 13:30
-#### Mindfluness
-  
 ## Mercoledì 21 Aprile 2021, 08:30
 #### Italiano
 <span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
@@ -42,4 +36,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Geografia
 Discipline  
 
-_Wed Apr 21 2021 13:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Wed Apr 21 2021 14:27:35 GMT+0200 (Ora legale dell’Europa centrale)_
