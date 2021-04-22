@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 21 Aprile 2021, 14:00
-#### Arte e immagine
-Cartellina, fogli da disegno, matite colorate e pennarelli.  
 ## Venerdì 23 Aprile 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
@@ -36,4 +33,4 @@ Discipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Apr 22 2021 15:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu Apr 22 2021 16:27:34 GMT+0200 (Ora legale dell’Europa centrale)_
