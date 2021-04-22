@@ -35,5 +35,8 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Mercoledì 28 Aprile 2021, 14:00
 #### Geografia
 Discipline  
+## Venerdì 30 Aprile 2021, 10:30
+#### Italiano
+Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Apr 22 2021 10:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu Apr 22 2021 11:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
