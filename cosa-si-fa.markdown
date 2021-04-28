@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 27 Aprile 2021, 11:30
-#### Motoria
-Scarpe da ginnastica indossate, abbigliamento comodo  
 ## Martedì 27 Aprile 2021, 12:00
 #### Mensa e intervallo
   
@@ -45,4 +42,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Arte e immagine
 Cartellina, fogli da disegno, matite colorate e pennarelli.  
 
-_Wed Apr 28 2021 11:27:34 GMT+0200 (Ora legale dell’Europa centrale)_
+_Wed Apr 28 2021 12:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
