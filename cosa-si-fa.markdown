@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 10 Maggio 2021, 10:30
-#### Storia
-Libro discipline, quaderno  
 ## Martedì 11 Maggio 2021, 11:30
 #### Motoria
 Scarpe da ginnastica indossate, abbigliamento comodo  
@@ -45,4 +42,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Italiano
 <span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
 
-_Tue May 11 2021 12:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Tue May 11 2021 13:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
