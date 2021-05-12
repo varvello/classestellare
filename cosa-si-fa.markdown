@@ -8,12 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 11 Maggio 2021, 12:00
-#### Mensa e intervallo
-  
-## Martedì 11 Maggio 2021, 13:30
-#### Mindfluness
-  
 ## Mercoledì 12 Maggio 2021, 08:30
 #### Italiano
 <span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
@@ -42,4 +36,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Arte e immagine
 Cartellina, fogli da disegno, matite colorate e pennarelli.  
 
-_Wed May 12 2021 13:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Wed May 12 2021 14:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
