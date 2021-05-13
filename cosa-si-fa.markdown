@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 12 Maggio 2021, 14:00
-#### Geografia
-Discipline  
 ## Venerdì 14 Maggio 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
@@ -36,4 +33,4 @@ Cartellina, fogli da disegno, matite colorate e pennarelli.
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu May 13 2021 15:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu May 13 2021 16:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
