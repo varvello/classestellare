@@ -35,5 +35,8 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Mercoledì 19 Maggio 2021, 14:00
 #### Arte e immagine
 Cartellina, fogli da disegno, matite colorate e pennarelli.  
+## Venerdì 21 Maggio 2021, 10:30
+#### Italiano
+Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu May 13 2021 10:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu May 13 2021 11:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
