@@ -32,5 +32,11 @@ Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario
 ## Lunedì 24 Maggio 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
+## Martedì 25 Maggio 2021, 11:30
+#### Motoria
+Scarpe da ginnastica indossate, abbigliamento comodo  
+## Martedì 25 Maggio 2021, 12:00
+#### Mensa e intervallo
+  
 
-_Mon May 17 2021 11:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Mon May 17 2021 12:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
