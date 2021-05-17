@@ -38,5 +38,8 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Martedì 25 Maggio 2021, 12:00
 #### Mensa e intervallo
   
+## Martedì 25 Maggio 2021, 13:30
+#### Mindfluness
+  
 
-_Mon May 17 2021 13:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Mon May 17 2021 14:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
