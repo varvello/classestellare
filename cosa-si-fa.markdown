@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 18 Maggio 2021, 11:30
-#### Motoria
-Scarpe da ginnastica indossate, abbigliamento comodo  
 ## Martedì 18 Maggio 2021, 12:00
 #### Mensa e intervallo
   
@@ -45,4 +42,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Geografia
 Discipline  
 
-_Wed May 19 2021 11:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Wed May 19 2021 12:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
