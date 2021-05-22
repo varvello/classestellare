@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Venerdì 21 Maggio 2021, 10:30
-#### Italiano
-Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 ## Lunedì 24 Maggio 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
@@ -33,4 +30,4 @@ Discipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Sat May 22 2021 12:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Sat May 22 2021 13:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
