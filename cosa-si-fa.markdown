@@ -29,5 +29,8 @@ Discipline
 ## Venerdì 28 Maggio 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
+## Lunedì 31 Maggio 2021, 10:30
+#### Storia
+Libro discipline, quaderno  
 
-_Sun May 23 2021 10:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Sun May 23 2021 11:27:34 GMT+0200 (Ora legale dell’Europa centrale)_
