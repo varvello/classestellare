@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 24 Maggio 2021, 10:30
-#### Storia
-Libro discipline, quaderno  
 ## Martedì 25 Maggio 2021, 11:30
 #### Motoria
 Scarpe da ginnastica indossate, abbigliamento comodo  
@@ -42,4 +39,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Mindfluness
   
 
-_Tue May 25 2021 12:27:34 GMT+0200 (Ora legale dell’Europa centrale)_
+_Tue May 25 2021 13:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
