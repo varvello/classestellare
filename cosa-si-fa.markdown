@@ -30,4 +30,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Mindfluness
   
 
-_Thu May 27 2021 09:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu May 27 2021 10:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
