@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Mercoledì 26 Maggio 2021, 08:30
-#### Italiano
-<span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
 ## Mercoledì 26 Maggio 2021, 14:00
 #### Geografia
 Discipline  
@@ -33,4 +30,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu May 27 2021 11:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu May 27 2021 12:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
