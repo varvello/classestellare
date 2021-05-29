@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Venerdì 28 Maggio 2021, 10:30
-#### Italiano
-Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 ## Lunedì 31 Maggio 2021, 10:30
 #### Storia
 Libro discipline, quaderno  
@@ -27,4 +24,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Sat May 29 2021 12:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Sat May 29 2021 13:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
