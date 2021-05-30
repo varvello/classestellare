@@ -24,4 +24,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Sun May 30 2021 08:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Sun May 30 2021 09:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
