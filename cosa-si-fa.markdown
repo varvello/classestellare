@@ -23,5 +23,8 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Venerdì 4 Giugno 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
+## Lunedì 7 Giugno 2021, 10:30
+#### Storia
+Libro discipline, quaderno  
 
-_Sun May 30 2021 10:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Sun May 30 2021 11:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
