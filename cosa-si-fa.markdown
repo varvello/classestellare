@@ -33,4 +33,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Mensa e intervallo
   
 
-_Mon May 31 2021 12:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Mon May 31 2021 13:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
