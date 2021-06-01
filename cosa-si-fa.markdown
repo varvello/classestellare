@@ -35,5 +35,8 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Mercoledì 9 Giugno 2021, 08:30
 #### Italiano
 <span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
+## Mercoledì 9 Giugno 2021, 14:00
+#### Geografia
+Discipline  
 
-_Tue Jun 01 2021 13:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Tue Jun 01 2021 14:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
