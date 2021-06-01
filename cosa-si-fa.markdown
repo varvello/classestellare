@@ -39,4 +39,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Italiano
 <span>Lezione italiano: portare libri Letture, Percorsi, quaderno e fogli a righe</span>  
 
-_Tue Jun 01 2021 10:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Tue Jun 01 2021 11:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
