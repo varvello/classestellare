@@ -8,12 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 1 Giugno 2021, 12:00
-#### Mensa e intervallo
-  
-## Martedì 1 Giugno 2021, 13:30
-#### Mindfluness
-  
 ## Venerdì 4 Giugno 2021, 10:30
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
@@ -36,4 +30,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Geografia
 Discipline  
 
-_Wed Jun 02 2021 13:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Wed Jun 02 2021 14:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
