@@ -30,4 +30,4 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 #### Geografia
 Discipline  
 
-_Wed Jun 02 2021 23:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu Jun 03 2021 00:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
