@@ -29,5 +29,8 @@ Scarpe da ginnastica indossate, abbigliamento comodo
 ## Mercoledì 9 Giugno 2021, 14:00
 #### Geografia
 Discipline  
+## Venerdì 11 Giugno 2021, 10:30
+#### Italiano
+Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Thu Jun 03 2021 10:27:32 GMT+0200 (Ora legale dell’Europa centrale)_
+_Thu Jun 03 2021 11:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
