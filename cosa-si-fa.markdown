@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Lunedì 7 Giugno 2021, 10:30
-#### Storia
-Libro discipline, quaderno  
 ## Martedì 8 Giugno 2021, 11:30
 #### Motoria
 Scarpe da ginnastica indossate, abbigliamento comodo  
@@ -30,4 +27,4 @@ Discipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Tue Jun 08 2021 12:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Tue Jun 08 2021 13:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
