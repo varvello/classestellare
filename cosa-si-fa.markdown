@@ -8,9 +8,6 @@ layout: default
 ---
 
 # Cosa si fa e Cosa si porta
-## Martedì 8 Giugno 2021, 11:30
-#### Motoria
-Scarpe da ginnastica indossate, abbigliamento comodo  
 ## Martedì 8 Giugno 2021, 12:00
 #### Mensa e intervallo
   
@@ -27,4 +24,4 @@ Discipline
 #### Italiano
 Libro Percorsi, Letture, quaderno, fogli, se possibile vocabolario  
 
-_Wed Jun 09 2021 11:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
+_Wed Jun 09 2021 12:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
