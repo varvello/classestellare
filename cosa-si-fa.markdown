@@ -9,4 +9,4 @@ layout: default
 
 # Cosa si fa e Cosa si porta
 
-_Fri Jun 18 2021 08:27:34 GMT+0200 (Ora legale dell’Europa centrale)_
+_Fri Jun 18 2021 09:27:33 GMT+0200 (Ora legale dell’Europa centrale)_
